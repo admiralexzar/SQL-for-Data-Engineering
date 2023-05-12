@@ -1,0 +1,152 @@
+Feature Engineering
+
+1. Download the property_sales.csv file and accompanying instruction file.
+2. Create a table in PostgreSQL based on the table structure provided in the property_sales.csv file. Kindly use the ‘property_sales’ as the table name for the raw data.
+3. Import the Titanic dataset into the newly created table
+4. Perform the following Feature Engineering tasks:
+	A. Perform One-Hot Encoding on the variable on one or more Categorical Variables in the dataset
+	B. Perform Ordinal or Label encoding on one or more Categorical Variables in the dataset
+	C. Perform Mean encoding on one or more Categorical Variables in the dataset (hint: you may want to use OVER() and PARTITION() commands)
+	D. Perform Mean Normalization on all the numeric variables to rescale these variables (you may add new columns for this)
+	E. Perform Standardization on all the numeric variables to rescale these variables (you may add new columns for this)
+
+A.  Perform One-Hot Encoding on the variable on one or more Categorical Variables in the dataset
+
+--COLUMNS lotshape and landslope	
+
+select id,
+	lotshape,
+	count(case when lotshape = 'Moderately Irregular' then 1 end) as Moderately_Irregular,
+	count(case when lotshape = 'Slightly irregular' then 1 end) as Slightly_Irregular,
+	count(case when lotshape = 'Regular' then 1 end) as Regular,
+	count(case when lotshape = 'Irregular' then 1 end) as Irregular
+from property_sales
+group by id
+order by id
+			
+		
+SELECT id,
+	landslope,
+	COUNT(CASE WHEN landslope = 'Gentle slope' THEN 1 END) AS Gentle_slope,
+	COUNT(CASE WHEN landslope = 'Moderate Slope' THEN 1 END) AS Moderate_Slope,
+	COUNT(CASE WHEN landslope = 'Severe Slope' THEN 1 END) AS Severe_Slope
+FROM property_sales
+GROUP BY id
+ORDER BY id;
+
+B. Perform Ordinal or Label encoding on one or more Categorical Variables in the dataset
+
+--COLUMNS overallqual and overallcond
+
+SELECT id, overallqual,
+	CASE
+		WHEN overallqual = 'Very Excellent' THEN 10
+		WHEN overallqual = 'Excellent' THEN 9
+		WHEN overallqual = 'Very Good' THEN 8
+		WHEN overallqual = 'Good' THEN 7
+		WHEN overallqual = 'Above Average' THEN 6
+		WHEN overallqual = 'Average' THEN 5
+		WHEN overallqual = 'Below Average' THEN 4
+		WHEN overallqual = 'Fair' THEN 3
+		WHEN overallqual = 'Poor' THEN 2
+		WHEN overallqual = 'Very Poor' THEN 1
+	END overallqual_labelled
+FROM property_sales;
+
+--assigned value for overallqual categorical variables		
+	"Excellent" 9
+	"Very Good" 8
+	"Good" 7
+	"Above Average" 6
+	"Average" 5
+	"Below Average" 4
+	"Fair" 3
+	"Poor" 2
+	
+C. Perform Mean encoding on one or more Categorical Variables in the dataset (hint: you may want to use OVER() and PARTITION() commands)
+
+--column lotshape
+--mean of encoded value is determined	
+	
+select AVG(Moderately_Irregular) as moderately_irregular_avg,
+		AVG(Slightly_Irregular) as slightly_irregular_avg,
+		AVG(Regular) as regular_avg,
+		AVG(Irregular) as irregular_avg
+FROM
+(
+	select id,
+		mssubclass,
+		lotshape,
+		count(case when lotshape = 'Moderately Irregular' then 1 end) as Moderately_Irregular,
+		count(case when lotshape = 'Slightly irregular' then 1 end) as Slightly_Irregular,
+		count(case when lotshape = 'Regular' then 1 end) as Regular,
+		count(case when lotshape = 'Irregular' then 1 end) as Irregular
+	from property_sales
+	group by id
+)property_sales_sub
+
+--mean is encoded and another column(lotshape_mean) is created for comparison
+
+select id,
+		mssubclass,
+		lotshape,
+		case 
+			when lotshape = 'Moderately Irregular' then 0.03
+			when lotshape = 'Slightly irregular' then 0.33
+			when lotshape = 'Regular' then 0.63
+			when lotshape = 'Irregular' then 0.01
+		end as lotshape_mean
+from property_sales
+group by id;
+
+D. Perform Mean Normalization on all the numeric variables to rescale these variables (you may add new columns for this)
+		
+		
+SELECT id,
+	mssubclass,
+	lotarea,
+	garagearea,
+	grlivarea,
+	totalbsmtsf,
+	saleprice,
+	(lotarea - AVG(lotarea) OVER()) / (MAX(lotarea) OVER() - MIN(lotarea) OVER()) AS lotarea_MeanNorm,
+	(garagearea - AVG(garagearea) OVER()) / (MAX(garagearea) OVER() - MIN(garagearea) OVER()) AS garagearea_MeanNorm,
+	(grlivarea - AVG(grlivarea) OVER()) / (MAX(grlivarea) OVER() - MIN(grlivarea) OVER()) AS grlivarea_MeanNorm,
+	(totalbsmtsf - AVG(totalbsmtsf) OVER()) / (MAX(totalbsmtsf) OVER() - MIN(totalbsmtsf) OVER()) AS totalbsmtsf_MeanNorm,
+	(saleprice - AVG(saleprice) OVER()) / (MAX(saleprice) OVER() - MIN(saleprice) OVER()) AS saleprice_MeanNorm
+FROM property_sales
+GROUP BY id,
+	mssubclass,
+	lotarea,
+	garagearea,
+	grlivarea,
+	totalbsmtsf,
+	saleprice
+;
+
+E. Perform Standardization on all the numeric variables to rescale these variables (you may add new columns for this)
+				
+SELECT id,
+		mssubclass,
+		lotfrontage,
+		lotarea,
+		garagearea,
+		grlivarea,
+		totalbsmtsf,
+		saleprice,
+		(lotfrontage - AVG(lotfrontage) OVER()) / STDDEV_SAMP(lotfrontage) OVER() AS lotfrontage_std,
+		(lotarea - AVG(lotarea) OVER()) / STDDEV_SAMP(lotarea) OVER() AS lotarea_MeanNorm,
+		(garagearea - AVG(garagearea) OVER()) / STDDEV_SAMP(garagearea) OVER() AS garagearea_std,
+		(grlivarea - AVG(grlivarea) OVER()) / STDDEV_SAMP(grlivarea) OVER() AS grlivarea_std,
+		(totalbsmtsf - AVG(totalbsmtsf) OVER()) / STDDEV_SAMP(totalbsmtsf) OVER() AS totalbsmtsf_std,
+		(saleprice - AVG(saleprice) OVER()) / STDDEV_SAMP(saleprice) OVER() AS saleprice_std
+FROM property_sales
+GROUP BY id,
+		mssubclass,
+		lotfrontage,
+		lotarea,
+		garagearea,
+		grlivarea,
+		totalbsmtsf,
+		saleprice
+;
