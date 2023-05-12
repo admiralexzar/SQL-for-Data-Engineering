@@ -1,0 +1,1461 @@
+"id","overallqual","overallqual_labelled"
+1,"Good",7
+2,"Above Average",6
+3,"Good",7
+4,"Good",7
+5,"Very Good",8
+6,"Average",5
+7,"Very Good",8
+9,"Good",7
+10,"Average",5
+11,"Average",5
+12,"Excellent",9
+14,"Good",7
+16,"Good",7
+18,"Below Average",4
+19,"Average",5
+20,"Average",5
+21,"Very Good",8
+22,"Good",7
+23,"Very Good",8
+24,"Average",5
+26,"Very Good",8
+27,"Average",5
+28,"Very Good",8
+29,"Average",5
+30,"Below Average",4
+31,"Below Average",4
+33,"Very Good",8
+34,"Average",5
+35,"Excellent",9
+36,"Very Good",8
+37,"Average",5
+38,"Average",5
+39,"Average",5
+40,"Below Average",4
+41,"Above Average",6
+42,"Average",5
+45,"Average",5
+46,"Excellent",9
+47,"Good",7
+48,"Very Good",8
+49,"Below Average",4
+50,"Average",5
+52,"Above Average",6
+53,"Average",5
+54,"Excellent",9
+55,"Average",5
+56,"Above Average",6
+57,"Very Good",8
+58,"Good",7
+59,"Very Excellent",10
+60,"Average",5
+61,"Above Average",6
+62,"Average",5
+63,"Very Good",8
+64,"Good",7
+66,"Very Good",8
+68,"Good",7
+69,"Below Average",4
+70,"Good",7
+71,"Good",7
+72,"Below Average",4
+73,"Good",7
+74,"Average",5
+75,"Fair",3
+76,"Below Average",4
+78,"Average",5
+79,"Below Average",4
+80,"Average",5
+81,"Above Average",6
+82,"Above Average",6
+83,"Very Good",8
+84,"Average",5
+86,"Very Good",8
+87,"Above Average",6
+88,"Above Average",6
+89,"Fair",3
+90,"Below Average",4
+91,"Below Average",4
+92,"Average",5
+93,"Average",5
+94,"Above Average",6
+95,"Above Average",6
+97,"Good",7
+98,"Below Average",4
+99,"Average",5
+100,"Below Average",4
+102,"Above Average",6
+103,"Average",5
+104,"Good",7
+106,"Very Good",8
+107,"Below Average",4
+108,"Average",5
+109,"Average",5
+110,"Above Average",6
+111,"Above Average",6
+113,"Good",7
+115,"Above Average",6
+116,"Above Average",6
+118,"Average",5
+119,"Good",7
+120,"Above Average",6
+122,"Below Average",4
+123,"Above Average",6
+124,"Above Average",6
+125,"Above Average",6
+126,"Above Average",6
+128,"Average",5
+129,"Above Average",6
+130,"Average",5
+131,"Good",7
+133,"Average",5
+135,"Average",5
+136,"Good",7
+138,"Good",7
+139,"Very Good",8
+140,"Above Average",6
+141,"Below Average",4
+142,"Good",7
+143,"Average",5
+144,"Good",7
+145,"Average",5
+146,"Above Average",6
+147,"Average",5
+149,"Good",7
+151,"Average",5
+152,"Very Good",8
+155,"Above Average",6
+156,"Above Average",6
+157,"Average",5
+158,"Very Good",8
+159,"Good",7
+160,"Good",7
+162,"Excellent",9
+163,"Good",7
+164,"Below Average",4
+165,"Above Average",6
+166,"Average",5
+168,"Very Good",8
+169,"Good",7
+214,"Average",5
+172,"Above Average",6
+173,"Good",7
+174,"Above Average",6
+175,"Above Average",6
+176,"Above Average",6
+177,"Above Average",6
+179,"Excellent",9
+180,"Average",5
+182,"Good",7
+183,"Average",5
+184,"Good",7
+185,"Average",5
+186,"Very Excellent",10
+188,"Average",5
+189,"Average",5
+190,"Very Good",8
+191,"Very Good",8
+193,"Good",7
+194,"Good",7
+195,"Average",5
+196,"Above Average",6
+197,"Good",7
+198,"Very Good",8
+199,"Above Average",6
+200,"Very Good",8
+201,"Below Average",4
+202,"Above Average",6
+203,"Above Average",6
+205,"Average",5
+206,"Good",7
+207,"Average",5
+210,"Above Average",6
+211,"Average",5
+212,"Above Average",6
+213,"Good",7
+216,"Average",5
+217,"Good",7
+218,"Below Average",4
+220,"Good",7
+221,"Good",7
+223,"Above Average",6
+224,"Below Average",4
+225,"Very Excellent",10
+226,"Average",5
+227,"Good",7
+228,"Above Average",6
+229,"Average",5
+230,"Good",7
+231,"Above Average",6
+232,"Very Good",8
+233,"Above Average",6
+234,"Average",5
+236,"Above Average",6
+237,"Good",7
+239,"Very Good",8
+240,"Above Average",6
+241,"Very Good",8
+242,"Average",5
+243,"Average",5
+244,"Above Average",6
+246,"Good",7
+247,"Above Average",6
+248,"Above Average",6
+249,"Good",7
+251,"Fair",3
+252,"Very Good",8
+253,"Above Average",6
+254,"Above Average",6
+255,"Average",5
+256,"Good",7
+257,"Above Average",6
+258,"Good",7
+259,"Good",7
+260,"Average",5
+261,"Above Average",6
+262,"Very Good",8
+263,"Above Average",6
+264,"Average",5
+265,"Average",5
+266,"Above Average",6
+267,"Above Average",6
+268,"Average",5
+269,"Average",5
+271,"Very Good",8
+272,"Good",7
+273,"Very Good",8
+274,"Above Average",6
+275,"Average",5
+276,"Good",7
+277,"Good",7
+278,"Below Average",4
+279,"Excellent",9
+280,"Good",7
+281,"Good",7
+282,"Above Average",6
+283,"Good",7
+284,"Very Good",8
+285,"Above Average",6
+286,"Good",7
+287,"Above Average",6
+290,"Above Average",6
+291,"Very Good",8
+292,"Average",5
+293,"Average",5
+295,"Above Average",6
+296,"Above Average",6
+297,"Average",5
+298,"Good",7
+299,"Above Average",6
+300,"Above Average",6
+1380,"Average",5
+301,"Average",5
+302,"Very Good",8
+303,"Good",7
+304,"Average",5
+305,"Good",7
+306,"Very Good",8
+307,"Good",7
+310,"Excellent",9
+312,"Above Average",6
+313,"Average",5
+314,"Good",7
+315,"Good",7
+316,"Good",7
+317,"Good",7
+318,"Very Good",8
+319,"Good",7
+321,"Excellent",9
+322,"Very Good",8
+323,"Good",7
+324,"Fair",3
+325,"Good",7
+326,"Average",5
+327,"Very Good",8
+328,"Above Average",6
+330,"Average",5
+332,"Average",5
+333,"Very Good",8
+334,"Good",7
+335,"Above Average",6
+337,"Excellent",9
+338,"Good",7
+339,"Good",7
+340,"Above Average",6
+341,"Very Good",8
+342,"Below Average",4
+344,"Excellent",9
+345,"Average",5
+346,"Above Average",6
+349,"Good",7
+350,"Excellent",9
+351,"Excellent",9
+353,"Average",5
+354,"Above Average",6
+355,"Above Average",6
+356,"Above Average",6
+358,"Average",5
+359,"Average",5
+360,"Very Good",8
+363,"Good",7
+364,"Above Average",6
+366,"Average",5
+368,"Above Average",6
+369,"Average",5
+372,"Below Average",4
+373,"Above Average",6
+374,"Average",5
+375,"Good",7
+377,"Average",5
+378,"Very Good",8
+379,"Excellent",9
+380,"Above Average",6
+381,"Average",5
+382,"Good",7
+383,"Good",7
+384,"Above Average",6
+386,"Very Good",8
+387,"Average",5
+388,"Above Average",6
+389,"Good",7
+390,"Very Excellent",10
+391,"Average",5
+392,"Above Average",6
+395,"Average",5
+396,"Average",5
+397,"Average",5
+398,"Average",5
+399,"Average",5
+400,"Good",7
+401,"Very Good",8
+402,"Good",7
+403,"Average",5
+404,"Very Good",8
+407,"Above Average",6
+408,"Above Average",6
+409,"Good",7
+410,"Very Good",8
+411,"Average",5
+412,"Average",5
+414,"Average",5
+415,"Good",7
+416,"Good",7
+417,"Above Average",6
+418,"Above Average",6
+419,"Average",5
+420,"Average",5
+421,"Good",7
+423,"Average",5
+424,"Very Good",8
+425,"Above Average",6
+426,"Good",7
+428,"Below Average",4
+429,"Good",7
+430,"Above Average",6
+431,"Above Average",6
+432,"Above Average",6
+433,"Average",5
+434,"Above Average",6
+435,"Below Average",4
+436,"Good",7
+437,"Above Average",6
+438,"Above Average",6
+439,"Average",5
+440,"Above Average",6
+441,"Very Excellent",10
+442,"Below Average",4
+443,"Average",5
+444,"Good",7
+445,"Good",7
+446,"Above Average",6
+447,"Above Average",6
+449,"Above Average",6
+450,"Fair",3
+451,"Above Average",6
+452,"Good",7
+454,"Very Good",8
+455,"Average",5
+456,"Good",7
+457,"Average",5
+461,"Very Good",8
+462,"Good",7
+463,"Average",5
+464,"Above Average",6
+465,"Average",5
+467,"Good",7
+468,"Average",5
+469,"Very Good",8
+470,"Above Average",6
+472,"Good",7
+473,"Above Average",6
+474,"Very Good",8
+475,"Very Good",8
+476,"Average",5
+477,"Above Average",6
+478,"Excellent",9
+479,"Very Good",8
+480,"Below Average",4
+481,"Excellent",9
+482,"Excellent",9
+483,"Good",7
+484,"Above Average",6
+486,"Average",5
+487,"Average",5
+488,"Average",5
+489,"Average",5
+490,"Below Average",4
+492,"Above Average",6
+493,"Above Average",6
+494,"Average",5
+495,"Average",5
+496,"Below Average",4
+498,"Good",7
+499,"Average",5
+500,"Average",5
+501,"Above Average",6
+502,"Good",7
+503,"Average",5
+504,"Good",7
+505,"Above Average",6
+506,"Average",5
+507,"Very Good",8
+508,"Above Average",6
+509,"Good",7
+510,"Average",5
+511,"Average",5
+512,"Good",7
+513,"Average",5
+514,"Above Average",6
+515,"Average",5
+516,"Very Excellent",10
+518,"Good",7
+520,"Good",7
+521,"Below Average",4
+522,"Above Average",6
+523,"Above Average",6
+524,"Very Excellent",10
+525,"Good",7
+526,"Good",7
+527,"Average",5
+528,"Excellent",9
+529,"Below Average",4
+531,"Above Average",6
+532,"Above Average",6
+533,"Average",5
+534,"Very Poor",1
+535,"Very Good",8
+536,"Average",5
+537,"Good",7
+541,"Excellent",9
+543,"Good",7
+544,"Good",7
+545,"Good",7
+547,"Above Average",6
+548,"Average",5
+549,"Average",5
+550,"Good",7
+551,"Above Average",6
+552,"Average",5
+553,"Very Good",8
+554,"Below Average",4
+555,"Good",7
+556,"Average",5
+557,"Average",5
+558,"Below Average",4
+559,"Good",7
+562,"Average",5
+563,"Average",5
+564,"Above Average",6
+566,"Above Average",6
+567,"Excellent",9
+568,"Good",7
+569,"Very Good",8
+571,"Average",5
+572,"Above Average",6
+573,"Good",7
+574,"Good",7
+575,"Average",5
+576,"Average",5
+577,"Good",7
+578,"Average",5
+579,"Good",7
+580,"Average",5
+582,"Very Good",8
+583,"Above Average",6
+584,"Very Excellent",10
+585,"Below Average",4
+586,"Very Good",8
+587,"Above Average",6
+588,"Average",5
+589,"Average",5
+590,"Average",5
+591,"Good",7
+592,"Very Excellent",10
+593,"Average",5
+595,"Average",5
+596,"Very Good",8
+597,"Above Average",6
+598,"Good",7
+599,"Average",5
+600,"Above Average",6
+601,"Very Good",8
+602,"Above Average",6
+603,"Very Good",8
+604,"Good",7
+605,"Good",7
+606,"Good",7
+607,"Average",5
+608,"Average",5
+609,"Very Good",8
+610,"Below Average",4
+614,"Average",5
+615,"Below Average",4
+616,"Above Average",6
+618,"Above Average",6
+619,"Excellent",9
+620,"Very Good",8
+621,"Fair",3
+622,"Above Average",6
+623,"Average",5
+625,"Above Average",6
+626,"Above Average",6
+628,"Above Average",6
+629,"Average",5
+630,"Above Average",6
+631,"Average",5
+632,"Very Good",8
+633,"Good",7
+634,"Average",5
+635,"Above Average",6
+636,"Above Average",6
+637,"Poor",2
+638,"Average",5
+639,"Average",5
+640,"Very Good",8
+641,"Very Good",8
+643,"Very Good",8
+644,"Average",5
+645,"Excellent",9
+1381,"Fair",3
+647,"Average",5
+648,"Above Average",6
+649,"Above Average",6
+650,"Below Average",4
+651,"Good",7
+652,"Below Average",4
+653,"Good",7
+654,"Above Average",6
+655,"Very Good",8
+656,"Above Average",6
+657,"Average",5
+658,"Good",7
+659,"Above Average",6
+660,"Average",5
+662,"Very Good",8
+663,"Above Average",6
+664,"Below Average",4
+665,"Very Good",8
+666,"Very Good",8
+668,"Above Average",6
+670,"Below Average",4
+671,"Above Average",6
+672,"Above Average",6
+674,"Above Average",6
+675,"Above Average",6
+676,"Above Average",6
+677,"Below Average",4
+678,"Average",5
+679,"Very Good",8
+681,"Above Average",6
+682,"Average",5
+684,"Excellent",9
+685,"Good",7
+687,"Good",7
+689,"Very Good",8
+690,"Above Average",6
+692,"Very Excellent",10
+693,"Good",7
+694,"Average",5
+695,"Average",5
+696,"Above Average",6
+697,"Average",5
+698,"Average",5
+699,"Average",5
+700,"Good",7
+701,"Very Good",8
+702,"Good",7
+703,"Very Good",8
+704,"Average",5
+705,"Good",7
+706,"Below Average",4
+708,"Very Good",8
+709,"Good",7
+711,"Fair",3
+712,"Below Average",4
+713,"Very Good",8
+714,"Below Average",4
+716,"Above Average",6
+717,"Good",7
+718,"Average",5
+719,"Good",7
+720,"Average",5
+723,"Below Average",4
+724,"Below Average",4
+725,"Excellent",9
+726,"Below Average",4
+728,"Good",7
+729,"Average",5
+730,"Below Average",4
+731,"Very Good",8
+732,"Good",7
+733,"Good",7
+734,"Average",5
+736,"Good",7
+737,"Fair",3
+738,"Very Good",8
+739,"Average",5
+740,"Good",7
+741,"Average",5
+742,"Above Average",6
+743,"Good",7
+744,"Average",5
+745,"Very Good",8
+748,"Good",7
+749,"Good",7
+750,"Below Average",4
+751,"Below Average",4
+753,"Above Average",6
+754,"Very Good",8
+755,"Above Average",6
+756,"Above Average",6
+757,"Very Good",8
+759,"Good",7
+760,"Very Good",8
+761,"Above Average",6
+762,"Average",5
+763,"Good",7
+764,"Very Good",8
+765,"Very Good",8
+766,"Excellent",9
+767,"Good",7
+768,"Above Average",6
+769,"Good",7
+770,"Very Good",8
+772,"Below Average",4
+773,"Above Average",6
+774,"Average",5
+775,"Very Good",8
+776,"Above Average",6
+777,"Good",7
+778,"Average",5
+779,"Average",5
+780,"Above Average",6
+781,"Good",7
+782,"Above Average",6
+783,"Good",7
+785,"Above Average",6
+787,"Average",5
+788,"Good",7
+789,"Below Average",4
+791,"Good",7
+793,"Good",7
+794,"Very Good",8
+796,"Above Average",6
+797,"Above Average",6
+798,"Average",5
+799,"Excellent",9
+800,"Average",5
+801,"Above Average",6
+802,"Below Average",4
+803,"Good",7
+804,"Excellent",9
+805,"Average",5
+806,"Good",7
+807,"Average",5
+808,"Average",5
+809,"Average",5
+810,"Average",5
+811,"Above Average",6
+813,"Average",5
+814,"Above Average",6
+815,"Average",5
+816,"Good",7
+819,"Above Average",6
+820,"Good",7
+821,"Good",7
+822,"Below Average",4
+824,"Above Average",6
+825,"Very Good",8
+826,"Very Excellent",10
+827,"Average",5
+828,"Good",7
+830,"Good",7
+831,"Above Average",6
+832,"Good",7
+833,"Good",7
+834,"Above Average",6
+835,"Average",5
+836,"Below Average",4
+837,"Average",5
+838,"Above Average",6
+839,"Average",5
+840,"Average",5
+842,"Average",5
+843,"Above Average",6
+844,"Average",5
+845,"Average",5
+847,"Good",7
+848,"Average",5
+849,"Above Average",6
+850,"Above Average",6
+851,"Above Average",6
+853,"Good",7
+855,"Average",5
+858,"Above Average",6
+859,"Good",7
+861,"Good",7
+862,"Average",5
+863,"Above Average",6
+864,"Average",5
+865,"Good",7
+867,"Very Good",8
+868,"Below Average",4
+870,"Good",7
+871,"Average",5
+872,"Above Average",6
+873,"Average",5
+874,"Average",5
+875,"Average",5
+876,"Very Good",8
+877,"Below Average",4
+878,"Excellent",9
+879,"Average",5
+881,"Average",5
+882,"Good",7
+884,"Below Average",4
+885,"Average",5
+886,"Excellent",9
+887,"Average",5
+888,"Average",5
+889,"Very Good",8
+890,"Above Average",6
+891,"Average",5
+892,"Above Average",6
+893,"Above Average",6
+895,"Average",5
+896,"Above Average",6
+897,"Below Average",4
+898,"Average",5
+899,"Excellent",9
+900,"Average",5
+902,"Average",5
+903,"Good",7
+904,"Good",7
+906,"Average",5
+907,"Very Good",8
+908,"Good",7
+910,"Above Average",6
+911,"Average",5
+913,"Average",5
+914,"Average",5
+915,"Above Average",6
+916,"Below Average",4
+917,"Poor",2
+919,"Good",7
+920,"Above Average",6
+921,"Above Average",6
+922,"Average",5
+923,"Above Average",6
+924,"Above Average",6
+925,"Above Average",6
+927,"Very Good",8
+931,"Very Good",8
+932,"Average",5
+933,"Excellent",9
+934,"Good",7
+935,"Good",7
+936,"Below Average",4
+937,"Good",7
+938,"Good",7
+939,"Good",7
+941,"Above Average",6
+943,"Below Average",4
+944,"Average",5
+946,"Average",5
+947,"Average",5
+948,"Very Good",8
+949,"Good",7
+950,"Above Average",6
+951,"Average",5
+952,"Average",5
+953,"Average",5
+955,"Above Average",6
+956,"Above Average",6
+957,"Above Average",6
+958,"Average",5
+959,"Good",7
+960,"Good",7
+961,"Average",5
+963,"Above Average",6
+964,"Excellent",9
+965,"Good",7
+966,"Above Average",6
+967,"Average",5
+969,"Fair",3
+970,"Above Average",6
+971,"Below Average",4
+972,"Good",7
+973,"Above Average",6
+974,"Good",7
+975,"Good",7
+977,"Below Average",4
+978,"Good",7
+979,"Below Average",4
+980,"Average",5
+982,"Very Good",8
+983,"Good",7
+985,"Average",5
+986,"Average",5
+987,"Above Average",6
+988,"Excellent",9
+990,"Good",7
+991,"Very Good",8
+992,"Very Good",8
+993,"Above Average",6
+994,"Above Average",6
+995,"Very Excellent",10
+996,"Below Average",4
+999,"Fair",3
+1000,"Good",7
+1001,"Fair",3
+1002,"Average",5
+1003,"Very Good",8
+1005,"Good",7
+1006,"Average",5
+1008,"Below Average",4
+1009,"Good",7
+1010,"Average",5
+1011,"Average",5
+1012,"Average",5
+1013,"Above Average",6
+1014,"Average",5
+1015,"Above Average",6
+1016,"Very Good",8
+1017,"Good",7
+1020,"Good",7
+1021,"Below Average",4
+1022,"Good",7
+1023,"Average",5
+1024,"Good",7
+1026,"Average",5
+1027,"Average",5
+1028,"Very Good",8
+1029,"Average",5
+1030,"Above Average",6
+1032,"Good",7
+1035,"Average",5
+1037,"Excellent",9
+1039,"Below Average",4
+1040,"Below Average",4
+1041,"Average",5
+1043,"Above Average",6
+1044,"Good",7
+1045,"Very Good",8
+1047,"Excellent",9
+1048,"Average",5
+1049,"Average",5
+1050,"Below Average",4
+1051,"Good",7
+1052,"Good",7
+1053,"Above Average",6
+1054,"Average",5
+1055,"Very Good",8
+1056,"Above Average",6
+1057,"Good",7
+1059,"Excellent",9
+1061,"Very Good",8
+1062,"Fair",3
+1063,"Average",5
+1064,"Above Average",6
+1066,"Good",7
+1067,"Above Average",6
+1068,"Above Average",6
+1069,"Above Average",6
+1070,"Average",5
+1071,"Average",5
+1072,"Above Average",6
+1073,"Average",5
+1074,"Above Average",6
+1075,"Good",7
+1076,"Good",7
+1077,"Average",5
+1079,"Above Average",6
+1080,"Average",5
+1081,"Above Average",6
+1082,"Average",5
+1083,"Good",7
+1084,"Above Average",6
+1086,"Above Average",6
+1088,"Very Good",8
+1089,"Good",7
+1090,"Very Good",8
+1091,"Fair",3
+1092,"Good",7
+1093,"Above Average",6
+1094,"Average",5
+1095,"Average",5
+1096,"Above Average",6
+1097,"Above Average",6
+1099,"Below Average",4
+1100,"Good",7
+1101,"Poor",2
+1102,"Average",5
+1103,"Average",5
+1104,"Above Average",6
+1105,"Average",5
+1106,"Very Good",8
+1107,"Good",7
+1108,"Good",7
+1110,"Very Good",8
+1112,"Good",7
+1113,"Average",5
+1114,"Average",5
+1115,"Average",5
+1116,"Very Good",8
+1118,"Average",5
+1119,"Average",5
+1120,"Average",5
+1121,"Above Average",6
+1122,"Good",7
+1124,"Average",5
+1126,"Below Average",4
+1127,"Good",7
+1128,"Good",7
+1129,"Good",7
+1130,"Average",5
+1131,"Below Average",4
+1132,"Average",5
+1133,"Above Average",6
+1134,"Very Good",8
+1135,"Above Average",6
+1136,"Above Average",6
+1137,"Above Average",6
+1138,"Average",5
+1140,"Average",5
+1141,"Average",5
+1143,"Very Good",8
+1145,"Below Average",4
+1146,"Average",5
+1148,"Good",7
+1150,"Good",7
+1151,"Above Average",6
+1152,"Average",5
+1153,"Above Average",6
+1156,"Average",5
+1157,"Average",5
+1158,"Good",7
+1159,"Very Good",8
+1160,"Above Average",6
+1161,"Above Average",6
+1163,"Average",5
+1164,"Below Average",4
+1166,"Good",7
+1167,"Very Good",8
+1168,"Above Average",6
+1169,"Above Average",6
+1170,"Very Excellent",10
+1171,"Above Average",6
+1172,"Above Average",6
+1173,"Good",7
+1174,"Average",5
+1175,"Above Average",6
+1176,"Very Good",8
+1177,"Average",5
+1179,"Average",5
+1180,"Average",5
+1182,"Very Good",8
+1183,"Very Excellent",10
+1184,"Average",5
+1185,"Average",5
+1186,"Average",5
+1187,"Fair",3
+1188,"Very Good",8
+1189,"Good",7
+1190,"Good",7
+1192,"Very Good",8
+1193,"Average",5
+1195,"Above Average",6
+1196,"Above Average",6
+1197,"Good",7
+1198,"Good",7
+1199,"Good",7
+1200,"Below Average",4
+1201,"Below Average",4
+1202,"Good",7
+1203,"Average",5
+1204,"Good",7
+1205,"Average",5
+1206,"Good",7
+1208,"Above Average",6
+1209,"Average",5
+1210,"Very Good",8
+1211,"Above Average",6
+1212,"Very Good",8
+1213,"Below Average",4
+1215,"Average",5
+1216,"Average",5
+1217,"Above Average",6
+1218,"Very Good",8
+1219,"Below Average",4
+1220,"Above Average",6
+1221,"Average",5
+1222,"Average",5
+1223,"Above Average",6
+1224,"Average",5
+1225,"Good",7
+1226,"Above Average",6
+1227,"Above Average",6
+1228,"Average",5
+1229,"Excellent",9
+1230,"Average",5
+1232,"Average",5
+1233,"Below Average",4
+1235,"Average",5
+1236,"Average",5
+1237,"Good",7
+1238,"Good",7
+1239,"Above Average",6
+1240,"Very Good",8
+1241,"Good",7
+1242,"Good",7
+1243,"Good",7
+1244,"Very Excellent",10
+1246,"Above Average",6
+1247,"Good",7
+1249,"Above Average",6
+1250,"Average",5
+1251,"Good",7
+1253,"Average",5
+1255,"Good",7
+1256,"Above Average",6
+1257,"Very Good",8
+1258,"Average",5
+1259,"Good",7
+1260,"Above Average",6
+1262,"Average",5
+1264,"Above Average",6
+1265,"Above Average",6
+1266,"Good",7
+1267,"Good",7
+1268,"Excellent",9
+1270,"Average",5
+1274,"Above Average",6
+1275,"Average",5
+1276,"Average",5
+1279,"Very Good",8
+1280,"Below Average",4
+1281,"Good",7
+1282,"Good",7
+1283,"Average",5
+1284,"Above Average",6
+1285,"Above Average",6
+1286,"Above Average",6
+1289,"Very Good",8
+1290,"Very Good",8
+1292,"Average",5
+1293,"Average",5
+1294,"Good",7
+1295,"Average",5
+1296,"Average",5
+1297,"Average",5
+1298,"Above Average",6
+1299,"Very Excellent",10
+1300,"Average",5
+1303,"Very Good",8
+1304,"Good",7
+1305,"Good",7
+1306,"Excellent",9
+1307,"Good",7
+1308,"Average",5
+1309,"Average",5
+1311,"Good",7
+1312,"Good",7
+1314,"Excellent",9
+1315,"Below Average",4
+1316,"Above Average",6
+1317,"Very Good",8
+1318,"Good",7
+1320,"Below Average",4
+1321,"Above Average",6
+1323,"Good",7
+1324,"Below Average",4
+1325,"Very Good",8
+1326,"Below Average",4
+1327,"Fair",3
+1328,"Average",5
+1329,"Above Average",6
+1330,"Good",7
+1331,"Very Good",8
+1332,"Average",5
+1333,"Below Average",4
+1334,"Average",5
+1335,"Average",5
+1336,"Above Average",6
+1337,"Average",5
+1338,"Below Average",4
+1339,"Good",7
+1340,"Average",5
+1341,"Below Average",4
+1342,"Above Average",6
+1344,"Above Average",6
+1345,"Good",7
+1346,"Below Average",4
+1348,"Very Good",8
+1350,"Very Good",8
+1351,"Average",5
+1352,"Above Average",6
+1353,"Above Average",6
+1354,"Very Good",8
+1356,"Good",7
+1360,"Excellent",9
+1361,"Average",5
+1362,"Good",7
+1364,"Above Average",6
+1365,"Good",7
+1367,"Good",7
+1368,"Average",5
+1370,"Very Good",8
+1371,"Below Average",4
+1372,"Above Average",6
+1373,"Good",7
+1375,"Good",7
+1376,"Very Good",8
+1377,"Above Average",6
+1378,"Average",5
+1379,"Above Average",6
+1383,"Good",7
+1385,"Above Average",6
+1386,"Below Average",4
+1387,"Good",7
+1388,"Above Average",6
+1389,"Excellent",9
+1390,"Above Average",6
+1391,"Good",7
+1392,"Average",5
+1393,"Average",5
+1394,"Above Average",6
+1395,"Good",7
+1396,"Very Good",8
+1398,"Average",5
+1399,"Average",5
+1400,"Above Average",6
+1401,"Above Average",6
+1402,"Above Average",6
+1403,"Good",7
+1404,"Very Good",8
+1405,"Fair",3
+1406,"Very Good",8
+1407,"Average",5
+1409,"Below Average",4
+1410,"Good",7
+1411,"Good",7
+1412,"Above Average",6
+1413,"Below Average",4
+1414,"Very Good",8
+1415,"Above Average",6
+1416,"Good",7
+1417,"Below Average",4
+1419,"Average",5
+1421,"Above Average",6
+1422,"Above Average",6
+1423,"Above Average",6
+1426,"Above Average",6
+1427,"Good",7
+1428,"Average",5
+1429,"Average",5
+1431,"Average",5
+1433,"Below Average",4
+1434,"Above Average",6
+1435,"Average",5
+1436,"Above Average",6
+1437,"Below Average",4
+1438,"Very Good",8
+1439,"Above Average",6
+1440,"Good",7
+1441,"Above Average",6
+1443,"Very Excellent",10
+1445,"Good",7
+1446,"Above Average",6
+1448,"Very Good",8
+1449,"Below Average",4
+1450,"Average",5
+1451,"Average",5
+1452,"Very Good",8
+1453,"Average",5
+1454,"Average",5
+1455,"Good",7
+1456,"Above Average",6
+1457,"Above Average",6
+1458,"Good",7
+1459,"Average",5
+1460,"Average",5
+8,"Good",7
+13,"Average",5
+15,"Above Average",6
+17,"Above Average",6
+25,"Average",5
+32,"Average",5
+43,"Average",5
+65,"Good",7
+44,"Average",5
+51,"Above Average",6
+67,"Good",7
+77,"Below Average",4
+85,"Good",7
+96,"Above Average",6
+101,"Above Average",6
+105,"Good",7
+112,"Good",7
+114,"Above Average",6
+117,"Average",5
+121,"Above Average",6
+127,"Above Average",6
+132,"Above Average",6
+134,"Very Good",8
+137,"Average",5
+148,"Good",7
+150,"Average",5
+153,"Above Average",6
+154,"Above Average",6
+161,"Above Average",6
+167,"Average",5
+170,"Very Good",8
+171,"Average",5
+178,"Average",5
+181,"Above Average",6
+187,"Good",7
+192,"Good",7
+204,"Above Average",6
+208,"Below Average",4
+209,"Good",7
+215,"Above Average",6
+219,"Good",7
+222,"Above Average",6
+235,"Above Average",6
+238,"Good",7
+245,"Good",7
+250,"Above Average",6
+270,"Above Average",6
+288,"Below Average",4
+289,"Average",5
+294,"Good",7
+308,"Above Average",6
+309,"Below Average",4
+311,"Above Average",6
+320,"Good",7
+329,"Above Average",6
+331,"Average",5
+336,"Average",5
+343,"Fair",3
+347,"Above Average",6
+348,"Above Average",6
+352,"Good",7
+357,"Above Average",6
+361,"Above Average",6
+362,"Average",5
+365,"Above Average",6
+367,"Above Average",6
+370,"Average",5
+371,"Above Average",6
+376,"Very Poor",1
+385,"Above Average",6
+393,"Average",5
+394,"Below Average",4
+405,"Above Average",6
+406,"Below Average",4
+413,"Good",7
+422,"Above Average",6
+427,"Good",7
+448,"Good",7
+453,"Above Average",6
+458,"Below Average",4
+459,"Very Good",8
+460,"Average",5
+466,"Good",7
+471,"Very Good",8
+485,"Average",5
+491,"Average",5
+497,"Very Good",8
+517,"Above Average",6
+519,"Above Average",6
+530,"Above Average",6
+538,"Below Average",4
+539,"Average",5
+540,"Very Good",8
+542,"Very Good",8
+546,"Good",7
+560,"Good",7
+561,"Average",5
+565,"Good",7
+570,"Average",5
+581,"Above Average",6
+594,"Above Average",6
+611,"Excellent",9
+612,"Above Average",6
+613,"Very Good",8
+617,"Above Average",6
+624,"Above Average",6
+627,"Average",5
+642,"Good",7
+646,"Above Average",6
+661,"Good",7
+667,"Above Average",6
+669,"Average",5
+673,"Above Average",6
+680,"Average",5
+683,"Above Average",6
+686,"Good",7
+688,"Good",7
+691,"Above Average",6
+707,"Good",7
+710,"Average",5
+715,"Above Average",6
+721,"Very Good",8
+722,"Above Average",6
+727,"Above Average",6
+735,"Average",5
+746,"Very Good",8
+747,"Good",7
+752,"Good",7
+758,"Above Average",6
+771,"Average",5
+784,"Average",5
+786,"Above Average",6
+790,"Above Average",6
+792,"Above Average",6
+795,"Good",7
+812,"Above Average",6
+817,"Average",5
+818,"Very Good",8
+823,"Good",7
+829,"Average",5
+841,"Above Average",6
+846,"Average",5
+852,"Very Good",8
+854,"Above Average",6
+856,"Average",5
+857,"Above Average",6
+860,"Above Average",6
+866,"Average",5
+869,"Average",5
+880,"Average",5
+883,"Above Average",6
+894,"Average",5
+901,"Below Average",4
+905,"Average",5
+909,"Average",5
+912,"Average",5
+918,"Below Average",4
+926,"Average",5
+928,"Good",7
+929,"Very Good",8
+930,"Good",7
+940,"Good",7
+942,"Good",7
+945,"Above Average",6
+954,"Average",5
+962,"Above Average",6
+968,"Average",5
+976,"Good",7
+981,"Good",7
+984,"Very Good",8
+989,"Above Average",6
+997,"Average",5
+998,"Above Average",6
+1004,"Average",5
+1007,"Above Average",6
+1018,"Very Good",8
+1019,"Good",7
+1025,"Very Good",8
+1031,"Average",5
+1033,"Very Good",8
+1034,"Good",7
+1036,"Below Average",4
+1038,"Very Good",8
+1042,"Above Average",6
+1046,"Fair",3
+1058,"Good",7
+1060,"Above Average",6
+1065,"Average",5
+1078,"Average",5
+1085,"Above Average",6
+1087,"Below Average",4
+1098,"Very Good",8
+1109,"Above Average",6
+1111,"Above Average",6
+1117,"Very Good",8
+1123,"Below Average",4
+1125,"Good",7
+1139,"Above Average",6
+1142,"Average",5
+1144,"Average",5
+1147,"Above Average",6
+1149,"Good",7
+1154,"Above Average",6
+1155,"Good",7
+1162,"Above Average",6
+1165,"Average",5
+1178,"Above Average",6
+1181,"Good",7
+1191,"Below Average",4
+1194,"Above Average",6
+1207,"Below Average",4
+1214,"Below Average",4
+1231,"Average",5
+1234,"Average",5
+1245,"Very Good",8
+1248,"Above Average",6
+1252,"Good",7
+1254,"Good",7
+1261,"Above Average",6
+1263,"Below Average",4
+1269,"Very Good",8
+1271,"Good",7
+1272,"Above Average",6
+1273,"Average",5
+1277,"Above Average",6
+1278,"Above Average",6
+1287,"Above Average",6
+1288,"Average",5
+1291,"Average",5
+1301,"Good",7
+1302,"Above Average",6
+1310,"Above Average",6
+1313,"Very Good",8
+1319,"Very Good",8
+1322,"Fair",3
+1343,"Very Good",8
+1347,"Good",7
+1349,"Good",7
+1355,"Good",7
+1357,"Average",5
+1358,"Average",5
+1359,"Above Average",6
+1363,"Below Average",4
+1366,"Good",7
+1369,"Above Average",6
+1374,"Very Excellent",10
+1382,"Above Average",6
+1384,"Average",5
+1397,"Average",5
+1408,"Average",5
+1418,"Very Good",8
+1420,"Above Average",6
+1424,"Above Average",6
+1425,"Average",5
+1430,"Above Average",6
+1432,"Above Average",6
+1442,"Above Average",6
+1444,"Above Average",6
+1447,"Average",5

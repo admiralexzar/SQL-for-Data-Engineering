@@ -1,0 +1,1461 @@
+"id","lotshape","moderately_irregular","slightly_irregular","regular","irregular"
+1,"Regular",0,0,1,0
+2,"Regular",0,0,1,0
+3,"Slightly irregular",0,1,0,0
+4,"Slightly irregular",0,1,0,0
+5,"Slightly irregular",0,1,0,0
+6,"Slightly irregular",0,1,0,0
+7,"Regular",0,0,1,0
+8,"Slightly irregular",0,1,0,0
+9,"Regular",0,0,1,0
+10,"Regular",0,0,1,0
+11,"Regular",0,0,1,0
+12,"Slightly irregular",0,1,0,0
+13,"Moderately Irregular",1,0,0,0
+14,"Slightly irregular",0,1,0,0
+15,"Slightly irregular",0,1,0,0
+16,"Regular",0,0,1,0
+17,"Slightly irregular",0,1,0,0
+18,"Regular",0,0,1,0
+19,"Regular",0,0,1,0
+20,"Regular",0,0,1,0
+21,"Slightly irregular",0,1,0,0
+22,"Regular",0,0,1,0
+23,"Regular",0,0,1,0
+24,"Regular",0,0,1,0
+25,"Slightly irregular",0,1,0,0
+26,"Regular",0,0,1,0
+27,"Regular",0,0,1,0
+28,"Regular",0,0,1,0
+29,"Slightly irregular",0,1,0,0
+30,"Slightly irregular",0,1,0,0
+31,"Regular",0,0,1,0
+32,"Slightly irregular",0,1,0,0
+33,"Regular",0,0,1,0
+34,"Slightly irregular",0,1,0,0
+35,"Regular",0,0,1,0
+36,"Regular",0,0,1,0
+37,"Regular",0,0,1,0
+38,"Regular",0,0,1,0
+39,"Regular",0,0,1,0
+40,"Regular",0,0,1,0
+41,"Regular",0,0,1,0
+42,"Regular",0,0,1,0
+43,"Slightly irregular",0,1,0,0
+44,"Slightly irregular",0,1,0,0
+45,"Regular",0,0,1,0
+46,"Regular",0,0,1,0
+47,"Slightly irregular",0,1,0,0
+48,"Regular",0,0,1,0
+49,"Regular",0,0,1,0
+50,"Regular",0,0,1,0
+51,"Moderately Irregular",1,0,0,0
+52,"Regular",0,0,1,0
+53,"Moderately Irregular",1,0,0,0
+54,"Slightly irregular",0,1,0,0
+55,"Regular",0,0,1,0
+56,"Slightly irregular",0,1,0,0
+57,"Regular",0,0,1,0
+58,"Slightly irregular",0,1,0,0
+59,"Moderately Irregular",1,0,0,0
+60,"Regular",0,0,1,0
+61,"Regular",0,0,1,0
+62,"Regular",0,0,1,0
+63,"Slightly irregular",0,1,0,0
+64,"Slightly irregular",0,1,0,0
+65,"Regular",0,0,1,0
+66,"Regular",0,0,1,0
+67,"Regular",0,0,1,0
+68,"Slightly irregular",0,1,0,0
+69,"Regular",0,0,1,0
+70,"Regular",0,0,1,0
+71,"Slightly irregular",0,1,0,0
+72,"Regular",0,0,1,0
+73,"Slightly irregular",0,1,0,0
+74,"Regular",0,0,1,0
+75,"Regular",0,0,1,0
+76,"Regular",0,0,1,0
+77,"Slightly irregular",0,1,0,0
+78,"Regular",0,0,1,0
+79,"Regular",0,0,1,0
+80,"Regular",0,0,1,0
+81,"Regular",0,0,1,0
+82,"Regular",0,0,1,0
+83,"Regular",0,0,1,0
+84,"Slightly irregular",0,1,0,0
+85,"Slightly irregular",0,1,0,0
+86,"Regular",0,0,1,0
+87,"Moderately Irregular",1,0,0,0
+88,"Regular",0,0,1,0
+89,"Slightly irregular",0,1,0,0
+90,"Regular",0,0,1,0
+91,"Regular",0,0,1,0
+92,"Regular",0,0,1,0
+93,"Slightly irregular",0,1,0,0
+94,"Regular",0,0,1,0
+95,"Slightly irregular",0,1,0,0
+96,"Moderately Irregular",1,0,0,0
+97,"Slightly irregular",0,1,0,0
+98,"Regular",0,0,1,0
+99,"Regular",0,0,1,0
+100,"Slightly irregular",0,1,0,0
+101,"Slightly irregular",0,1,0,0
+102,"Regular",0,0,1,0
+103,"Regular",0,0,1,0
+104,"Slightly irregular",0,1,0,0
+105,"Regular",0,0,1,0
+106,"Regular",0,0,1,0
+107,"Regular",0,0,1,0
+108,"Regular",0,0,1,0
+109,"Regular",0,0,1,0
+110,"Slightly irregular",0,1,0,0
+111,"Regular",0,0,1,0
+112,"Slightly irregular",0,1,0,0
+113,"Regular",0,0,1,0
+114,"Regular",0,0,1,0
+115,"Slightly irregular",0,1,0,0
+116,"Regular",0,0,1,0
+117,"Regular",0,0,1,0
+118,"Regular",0,0,1,0
+119,"Regular",0,0,1,0
+120,"Regular",0,0,1,0
+121,"Slightly irregular",0,1,0,0
+122,"Regular",0,0,1,0
+123,"Regular",0,0,1,0
+124,"Regular",0,0,1,0
+125,"Slightly irregular",0,1,0,0
+126,"Regular",0,0,1,0
+127,"Slightly irregular",0,1,0,0
+128,"Slightly irregular",0,1,0,0
+129,"Regular",0,0,1,0
+130,"Regular",0,0,1,0
+131,"Regular",0,0,1,0
+132,"Slightly irregular",0,1,0,0
+133,"Regular",0,0,1,0
+134,"Slightly irregular",0,1,0,0
+135,"Slightly irregular",0,1,0,0
+136,"Regular",0,0,1,0
+137,"Slightly irregular",0,1,0,0
+138,"Regular",0,0,1,0
+139,"Slightly irregular",0,1,0,0
+140,"Slightly irregular",0,1,0,0
+141,"Regular",0,0,1,0
+142,"Regular",0,0,1,0
+143,"Regular",0,0,1,0
+144,"Slightly irregular",0,1,0,0
+145,"Regular",0,0,1,0
+146,"Regular",0,0,1,0
+147,"Regular",0,0,1,0
+148,"Slightly irregular",0,1,0,0
+149,"Regular",0,0,1,0
+150,"Regular",0,0,1,0
+151,"Regular",0,0,1,0
+152,"Regular",0,0,1,0
+153,"Slightly irregular",0,1,0,0
+154,"Regular",0,0,1,0
+155,"Regular",0,0,1,0
+156,"Regular",0,0,1,0
+157,"Regular",0,0,1,0
+158,"Regular",0,0,1,0
+159,"Regular",0,0,1,0
+160,"Slightly irregular",0,1,0,0
+161,"Slightly irregular",0,1,0,0
+162,"Slightly irregular",0,1,0,0
+163,"Regular",0,0,1,0
+164,"Regular",0,0,1,0
+165,"Regular",0,0,1,0
+166,"Regular",0,0,1,0
+167,"Slightly irregular",0,1,0,0
+168,"Regular",0,0,1,0
+169,"Slightly irregular",0,1,0,0
+170,"Slightly irregular",0,1,0,0
+171,"Slightly irregular",0,1,0,0
+172,"Slightly irregular",0,1,0,0
+173,"Slightly irregular",0,1,0,0
+174,"Slightly irregular",0,1,0,0
+175,"Slightly irregular",0,1,0,0
+176,"Regular",0,0,1,0
+177,"Slightly irregular",0,1,0,0
+178,"Regular",0,0,1,0
+179,"Slightly irregular",0,1,0,0
+180,"Regular",0,0,1,0
+181,"Regular",0,0,1,0
+182,"Regular",0,0,1,0
+183,"Regular",0,0,1,0
+184,"Regular",0,0,1,0
+185,"Slightly irregular",0,1,0,0
+186,"Moderately Irregular",1,0,0,0
+187,"Slightly irregular",0,1,0,0
+188,"Regular",0,0,1,0
+189,"Regular",0,0,1,0
+190,"Regular",0,0,1,0
+191,"Regular",0,0,1,0
+192,"Slightly irregular",0,1,0,0
+193,"Slightly irregular",0,1,0,0
+194,"Regular",0,0,1,0
+195,"Slightly irregular",0,1,0,0
+196,"Regular",0,0,1,0
+197,"Regular",0,0,1,0
+198,"Regular",0,0,1,0
+199,"Regular",0,0,1,0
+200,"Regular",0,0,1,0
+201,"Regular",0,0,1,0
+202,"Regular",0,0,1,0
+203,"Regular",0,0,1,0
+204,"Regular",0,0,1,0
+205,"Regular",0,0,1,0
+206,"Regular",0,0,1,0
+207,"Slightly irregular",0,1,0,0
+208,"Slightly irregular",0,1,0,0
+209,"Slightly irregular",0,1,0,0
+210,"Regular",0,0,1,0
+211,"Regular",0,0,1,0
+212,"Regular",0,0,1,0
+213,"Regular",0,0,1,0
+214,"Moderately Irregular",1,0,0,0
+215,"Slightly irregular",0,1,0,0
+216,"Slightly irregular",0,1,0,0
+217,"Regular",0,0,1,0
+218,"Regular",0,0,1,0
+219,"Slightly irregular",0,1,0,0
+220,"Regular",0,0,1,0
+221,"Slightly irregular",0,1,0,0
+222,"Slightly irregular",0,1,0,0
+223,"Regular",0,0,1,0
+224,"Regular",0,0,1,0
+225,"Regular",0,0,1,0
+226,"Regular",0,0,1,0
+227,"Slightly irregular",0,1,0,0
+228,"Regular",0,0,1,0
+229,"Regular",0,0,1,0
+230,"Regular",0,0,1,0
+231,"Regular",0,0,1,0
+232,"Slightly irregular",0,1,0,0
+233,"Regular",0,0,1,0
+234,"Regular",0,0,1,0
+235,"Regular",0,0,1,0
+236,"Regular",0,0,1,0
+237,"Regular",0,0,1,0
+238,"Slightly irregular",0,1,0,0
+239,"Regular",0,0,1,0
+240,"Regular",0,0,1,0
+241,"Regular",0,0,1,0
+242,"Regular",0,0,1,0
+243,"Regular",0,0,1,0
+244,"Regular",0,0,1,0
+245,"Slightly irregular",0,1,0,0
+246,"Regular",0,0,1,0
+247,"Regular",0,0,1,0
+248,"Regular",0,0,1,0
+249,"Regular",0,0,1,0
+250,"Moderately Irregular",1,0,0,0
+251,"Slightly irregular",0,1,0,0
+252,"Slightly irregular",0,1,0,0
+253,"Slightly irregular",0,1,0,0
+254,"Regular",0,0,1,0
+255,"Regular",0,0,1,0
+256,"Slightly irregular",0,1,0,0
+257,"Slightly irregular",0,1,0,0
+258,"Regular",0,0,1,0
+259,"Regular",0,0,1,0
+260,"Regular",0,0,1,0
+261,"Regular",0,0,1,0
+262,"Slightly irregular",0,1,0,0
+263,"Slightly irregular",0,1,0,0
+264,"Regular",0,0,1,0
+265,"Irregular",0,0,0,1
+266,"Slightly irregular",0,1,0,0
+267,"Slightly irregular",0,1,0,0
+268,"Regular",0,0,1,0
+269,"Regular",0,0,1,0
+270,"Slightly irregular",0,1,0,0
+271,"Regular",0,0,1,0
+272,"Slightly irregular",0,1,0,0
+273,"Slightly irregular",0,1,0,0
+274,"Regular",0,0,1,0
+275,"Regular",0,0,1,0
+276,"Regular",0,0,1,0
+277,"Slightly irregular",0,1,0,0
+278,"Regular",0,0,1,0
+279,"Regular",0,0,1,0
+280,"Regular",0,0,1,0
+281,"Regular",0,0,1,0
+282,"Regular",0,0,1,0
+283,"Regular",0,0,1,0
+284,"Regular",0,0,1,0
+285,"Regular",0,0,1,0
+286,"Slightly irregular",0,1,0,0
+287,"Slightly irregular",0,1,0,0
+288,"Slightly irregular",0,1,0,0
+289,"Slightly irregular",0,1,0,0
+290,"Regular",0,0,1,0
+291,"Regular",0,0,1,0
+292,"Regular",0,0,1,0
+293,"Regular",0,0,1,0
+294,"Slightly irregular",0,1,0,0
+295,"Regular",0,0,1,0
+296,"Slightly irregular",0,1,0,0
+297,"Regular",0,0,1,0
+298,"Slightly irregular",0,1,0,0
+299,"Regular",0,0,1,0
+300,"Regular",0,0,1,0
+301,"Regular",0,0,1,0
+302,"Irregular",0,0,0,1
+303,"Slightly irregular",0,1,0,0
+304,"Regular",0,0,1,0
+305,"Regular",0,0,1,0
+306,"Regular",0,0,1,0
+307,"Regular",0,0,1,0
+308,"Slightly irregular",0,1,0,0
+309,"Slightly irregular",0,1,0,0
+310,"Slightly irregular",0,1,0,0
+311,"Slightly irregular",0,1,0,0
+312,"Regular",0,0,1,0
+313,"Regular",0,0,1,0
+314,"Irregular",0,0,0,1
+315,"Regular",0,0,1,0
+316,"Slightly irregular",0,1,0,0
+317,"Slightly irregular",0,1,0,0
+318,"Regular",0,0,1,0
+319,"Regular",0,0,1,0
+320,"Regular",0,0,1,0
+321,"Regular",0,0,1,0
+322,"Slightly irregular",0,1,0,0
+323,"Slightly irregular",0,1,0,0
+324,"Regular",0,0,1,0
+325,"Regular",0,0,1,0
+326,"Regular",0,0,1,0
+327,"Slightly irregular",0,1,0,0
+328,"Regular",0,0,1,0
+329,"Slightly irregular",0,1,0,0
+330,"Regular",0,0,1,0
+331,"Slightly irregular",0,1,0,0
+332,"Regular",0,0,1,0
+333,"Slightly irregular",0,1,0,0
+334,"Regular",0,0,1,0
+335,"Slightly irregular",0,1,0,0
+336,"Slightly irregular",0,1,0,0
+337,"Slightly irregular",0,1,0,0
+338,"Regular",0,0,1,0
+339,"Regular",0,0,1,0
+340,"Slightly irregular",0,1,0,0
+341,"Regular",0,0,1,0
+342,"Regular",0,0,1,0
+343,"Regular",0,0,1,0
+344,"Slightly irregular",0,1,0,0
+345,"Regular",0,0,1,0
+346,"Regular",0,0,1,0
+347,"Slightly irregular",0,1,0,0
+348,"Slightly irregular",0,1,0,0
+349,"Regular",0,0,1,0
+350,"Moderately Irregular",1,0,0,0
+351,"Slightly irregular",0,1,0,0
+352,"Slightly irregular",0,1,0,0
+353,"Regular",0,0,1,0
+354,"Regular",0,0,1,0
+355,"Regular",0,0,1,0
+356,"Moderately Irregular",1,0,0,0
+357,"Slightly irregular",0,1,0,0
+358,"Regular",0,0,1,0
+359,"Slightly irregular",0,1,0,0
+360,"Slightly irregular",0,1,0,0
+361,"Slightly irregular",0,1,0,0
+362,"Regular",0,0,1,0
+363,"Regular",0,0,1,0
+364,"Regular",0,0,1,0
+365,"Slightly irregular",0,1,0,0
+366,"Regular",0,0,1,0
+367,"Slightly irregular",0,1,0,0
+368,"Slightly irregular",0,1,0,0
+369,"Regular",0,0,1,0
+370,"Slightly irregular",0,1,0,0
+371,"Slightly irregular",0,1,0,0
+372,"Regular",0,0,1,0
+373,"Regular",0,0,1,0
+374,"Regular",0,0,1,0
+375,"Regular",0,0,1,0
+376,"Slightly irregular",0,1,0,0
+377,"Slightly irregular",0,1,0,0
+378,"Slightly irregular",0,1,0,0
+379,"Regular",0,0,1,0
+380,"Slightly irregular",0,1,0,0
+381,"Regular",0,0,1,0
+382,"Regular",0,0,1,0
+383,"Slightly irregular",0,1,0,0
+384,"Regular",0,0,1,0
+385,"Moderately Irregular",1,0,0,0
+386,"Regular",0,0,1,0
+387,"Regular",0,0,1,0
+388,"Regular",0,0,1,0
+389,"Slightly irregular",0,1,0,0
+390,"Regular",0,0,1,0
+391,"Regular",0,0,1,0
+392,"Slightly irregular",0,1,0,0
+393,"Slightly irregular",0,1,0,0
+394,"Regular",0,0,1,0
+395,"Regular",0,0,1,0
+396,"Regular",0,0,1,0
+397,"Regular",0,0,1,0
+398,"Regular",0,0,1,0
+399,"Regular",0,0,1,0
+400,"Regular",0,0,1,0
+401,"Moderately Irregular",1,0,0,0
+402,"Slightly irregular",0,1,0,0
+403,"Regular",0,0,1,0
+404,"Regular",0,0,1,0
+405,"Slightly irregular",0,1,0,0
+406,"Slightly irregular",0,1,0,0
+407,"Regular",0,0,1,0
+408,"Regular",0,0,1,0
+409,"Regular",0,0,1,0
+410,"Regular",0,0,1,0
+411,"Regular",0,0,1,0
+412,"Regular",0,0,1,0
+413,"Moderately Irregular",1,0,0,0
+414,"Regular",0,0,1,0
+415,"Moderately Irregular",1,0,0,0
+416,"Slightly irregular",0,1,0,0
+417,"Regular",0,0,1,0
+418,"Slightly irregular",0,1,0,0
+419,"Regular",0,0,1,0
+420,"Regular",0,0,1,0
+421,"Regular",0,0,1,0
+422,"Slightly irregular",0,1,0,0
+423,"Regular",0,0,1,0
+424,"Regular",0,0,1,0
+425,"Regular",0,0,1,0
+426,"Regular",0,0,1,0
+427,"Regular",0,0,1,0
+428,"Slightly irregular",0,1,0,0
+429,"Regular",0,0,1,0
+430,"Slightly irregular",0,1,0,0
+431,"Regular",0,0,1,0
+432,"Slightly irregular",0,1,0,0
+433,"Regular",0,0,1,0
+434,"Slightly irregular",0,1,0,0
+435,"Regular",0,0,1,0
+436,"Moderately Irregular",1,0,0,0
+437,"Regular",0,0,1,0
+438,"Regular",0,0,1,0
+439,"Regular",0,0,1,0
+440,"Regular",0,0,1,0
+441,"Regular",0,0,1,0
+442,"Regular",0,0,1,0
+443,"Regular",0,0,1,0
+444,"Regular",0,0,1,0
+445,"Regular",0,0,1,0
+446,"Regular",0,0,1,0
+447,"Slightly irregular",0,1,0,0
+448,"Slightly irregular",0,1,0,0
+449,"Regular",0,0,1,0
+450,"Regular",0,0,1,0
+451,"Regular",0,0,1,0
+452,"Slightly irregular",0,1,0,0
+453,"Slightly irregular",0,1,0,0
+454,"Regular",0,0,1,0
+455,"Regular",0,0,1,0
+456,"Regular",0,0,1,0
+457,"Regular",0,0,1,0
+458,"Slightly irregular",0,1,0,0
+459,"Regular",0,0,1,0
+460,"Slightly irregular",0,1,0,0
+461,"Slightly irregular",0,1,0,0
+462,"Regular",0,0,1,0
+463,"Slightly irregular",0,1,0,0
+464,"Slightly irregular",0,1,0,0
+465,"Regular",0,0,1,0
+466,"Regular",0,0,1,0
+467,"Regular",0,0,1,0
+468,"Regular",0,0,1,0
+469,"Slightly irregular",0,1,0,0
+470,"Slightly irregular",0,1,0,0
+471,"Slightly irregular",0,1,0,0
+472,"Regular",0,0,1,0
+473,"Regular",0,0,1,0
+474,"Slightly irregular",0,1,0,0
+475,"Regular",0,0,1,0
+476,"Regular",0,0,1,0
+477,"Regular",0,0,1,0
+478,"Regular",0,0,1,0
+479,"Regular",0,0,1,0
+480,"Regular",0,0,1,0
+481,"Slightly irregular",0,1,0,0
+482,"Slightly irregular",0,1,0,0
+483,"Regular",0,0,1,0
+484,"Regular",0,0,1,0
+485,"Slightly irregular",0,1,0,0
+486,"Regular",0,0,1,0
+487,"Regular",0,0,1,0
+488,"Slightly irregular",0,1,0,0
+489,"Regular",0,0,1,0
+490,"Regular",0,0,1,0
+491,"Regular",0,0,1,0
+492,"Regular",0,0,1,0
+493,"Slightly irregular",0,1,0,0
+494,"Regular",0,0,1,0
+495,"Regular",0,0,1,0
+496,"Regular",0,0,1,0
+497,"Slightly irregular",0,1,0,0
+498,"Regular",0,0,1,0
+499,"Regular",0,0,1,0
+500,"Slightly irregular",0,1,0,0
+501,"Regular",0,0,1,0
+502,"Regular",0,0,1,0
+503,"Regular",0,0,1,0
+504,"Slightly irregular",0,1,0,0
+505,"Regular",0,0,1,0
+506,"Regular",0,0,1,0
+507,"Slightly irregular",0,1,0,0
+508,"Slightly irregular",0,1,0,0
+509,"Regular",0,0,1,0
+510,"Regular",0,0,1,0
+511,"Regular",0,0,1,0
+512,"Slightly irregular",0,1,0,0
+513,"Regular",0,0,1,0
+514,"Regular",0,0,1,0
+515,"Regular",0,0,1,0
+516,"Regular",0,0,1,0
+517,"Slightly irregular",0,1,0,0
+518,"Slightly irregular",0,1,0,0
+519,"Slightly irregular",0,1,0,0
+520,"Regular",0,0,1,0
+521,"Regular",0,0,1,0
+522,"Slightly irregular",0,1,0,0
+523,"Regular",0,0,1,0
+524,"Slightly irregular",0,1,0,0
+525,"Slightly irregular",0,1,0,0
+526,"Regular",0,0,1,0
+527,"Regular",0,0,1,0
+528,"Slightly irregular",0,1,0,0
+529,"Slightly irregular",0,1,0,0
+530,"Slightly irregular",0,1,0,0
+531,"Regular",0,0,1,0
+532,"Slightly irregular",0,1,0,0
+533,"Regular",0,0,1,0
+534,"Regular",0,0,1,0
+535,"Slightly irregular",0,1,0,0
+536,"Regular",0,0,1,0
+537,"Slightly irregular",0,1,0,0
+538,"Slightly irregular",0,1,0,0
+539,"Slightly irregular",0,1,0,0
+540,"Regular",0,0,1,0
+541,"Regular",0,0,1,0
+542,"Regular",0,0,1,0
+543,"Regular",0,0,1,0
+544,"Regular",0,0,1,0
+545,"Slightly irregular",0,1,0,0
+546,"Slightly irregular",0,1,0,0
+547,"Slightly irregular",0,1,0,0
+548,"Regular",0,0,1,0
+549,"Slightly irregular",0,1,0,0
+550,"Regular",0,0,1,0
+551,"Regular",0,0,1,0
+552,"Regular",0,0,1,0
+553,"Slightly irregular",0,1,0,0
+554,"Regular",0,0,1,0
+555,"Regular",0,0,1,0
+556,"Regular",0,0,1,0
+557,"Slightly irregular",0,1,0,0
+558,"Regular",0,0,1,0
+559,"Moderately Irregular",1,0,0,0
+560,"Regular",0,0,1,0
+561,"Slightly irregular",0,1,0,0
+562,"Regular",0,0,1,0
+563,"Regular",0,0,1,0
+564,"Regular",0,0,1,0
+565,"Slightly irregular",0,1,0,0
+566,"Regular",0,0,1,0
+567,"Slightly irregular",0,1,0,0
+568,"Slightly irregular",0,1,0,0
+569,"Slightly irregular",0,1,0,0
+570,"Slightly irregular",0,1,0,0
+571,"Slightly irregular",0,1,0,0
+572,"Regular",0,0,1,0
+573,"Slightly irregular",0,1,0,0
+574,"Slightly irregular",0,1,0,0
+575,"Regular",0,0,1,0
+576,"Regular",0,0,1,0
+577,"Regular",0,0,1,0
+578,"Slightly irregular",0,1,0,0
+579,"Regular",0,0,1,0
+580,"Regular",0,0,1,0
+581,"Slightly irregular",0,1,0,0
+582,"Regular",0,0,1,0
+583,"Regular",0,0,1,0
+584,"Regular",0,0,1,0
+585,"Regular",0,0,1,0
+586,"Regular",0,0,1,0
+587,"Regular",0,0,1,0
+588,"Slightly irregular",0,1,0,0
+589,"Slightly irregular",0,1,0,0
+590,"Regular",0,0,1,0
+591,"Regular",0,0,1,0
+592,"Slightly irregular",0,1,0,0
+593,"Regular",0,0,1,0
+594,"Regular",0,0,1,0
+595,"Slightly irregular",0,1,0,0
+596,"Slightly irregular",0,1,0,0
+597,"Regular",0,0,1,0
+598,"Regular",0,0,1,0
+599,"Regular",0,0,1,0
+600,"Regular",0,0,1,0
+601,"Regular",0,0,1,0
+602,"Regular",0,0,1,0
+603,"Slightly irregular",0,1,0,0
+604,"Regular",0,0,1,0
+605,"Slightly irregular",0,1,0,0
+606,"Regular",0,0,1,0
+607,"Moderately Irregular",1,0,0,0
+608,"Regular",0,0,1,0
+609,"Regular",0,0,1,0
+610,"Regular",0,0,1,0
+611,"Regular",0,0,1,0
+612,"Slightly irregular",0,1,0,0
+613,"Regular",0,0,1,0
+614,"Regular",0,0,1,0
+615,"Regular",0,0,1,0
+616,"Regular",0,0,1,0
+617,"Slightly irregular",0,1,0,0
+618,"Regular",0,0,1,0
+619,"Regular",0,0,1,0
+620,"Regular",0,0,1,0
+621,"Regular",0,0,1,0
+622,"Regular",0,0,1,0
+623,"Regular",0,0,1,0
+624,"Regular",0,0,1,0
+625,"Regular",0,0,1,0
+626,"Slightly irregular",0,1,0,0
+627,"Slightly irregular",0,1,0,0
+628,"Regular",0,0,1,0
+629,"Slightly irregular",0,1,0,0
+630,"Regular",0,0,1,0
+631,"Regular",0,0,1,0
+632,"Regular",0,0,1,0
+633,"Regular",0,0,1,0
+634,"Regular",0,0,1,0
+635,"Regular",0,0,1,0
+636,"Regular",0,0,1,0
+637,"Regular",0,0,1,0
+638,"Regular",0,0,1,0
+639,"Regular",0,0,1,0
+640,"Regular",0,0,1,0
+641,"Slightly irregular",0,1,0,0
+642,"Regular",0,0,1,0
+643,"Regular",0,0,1,0
+644,"Regular",0,0,1,0
+645,"Regular",0,0,1,0
+646,"Slightly irregular",0,1,0,0
+647,"Regular",0,0,1,0
+648,"Slightly irregular",0,1,0,0
+649,"Regular",0,0,1,0
+650,"Regular",0,0,1,0
+651,"Regular",0,0,1,0
+652,"Regular",0,0,1,0
+653,"Regular",0,0,1,0
+654,"Regular",0,0,1,0
+655,"Slightly irregular",0,1,0,0
+656,"Regular",0,0,1,0
+657,"Slightly irregular",0,1,0,0
+658,"Regular",0,0,1,0
+659,"Regular",0,0,1,0
+660,"Regular",0,0,1,0
+661,"Regular",0,0,1,0
+662,"Moderately Irregular",1,0,0,0
+663,"Regular",0,0,1,0
+664,"Regular",0,0,1,0
+665,"Moderately Irregular",1,0,0,0
+666,"Slightly irregular",0,1,0,0
+667,"Slightly irregular",0,1,0,0
+668,"Regular",0,0,1,0
+669,"Regular",0,0,1,0
+670,"Regular",0,0,1,0
+671,"Regular",0,0,1,0
+672,"Regular",0,0,1,0
+673,"Slightly irregular",0,1,0,0
+674,"Regular",0,0,1,0
+675,"Regular",0,0,1,0
+676,"Regular",0,0,1,0
+677,"Regular",0,0,1,0
+678,"Regular",0,0,1,0
+679,"Slightly irregular",0,1,0,0
+680,"Slightly irregular",0,1,0,0
+681,"Regular",0,0,1,0
+682,"Moderately Irregular",1,0,0,0
+683,"Regular",0,0,1,0
+684,"Slightly irregular",0,1,0,0
+685,"Moderately Irregular",1,0,0,0
+686,"Slightly irregular",0,1,0,0
+687,"Regular",0,0,1,0
+688,"Moderately Irregular",1,0,0,0
+689,"Regular",0,0,1,0
+690,"Slightly irregular",0,1,0,0
+691,"Regular",0,0,1,0
+692,"Slightly irregular",0,1,0,0
+693,"Slightly irregular",0,1,0,0
+694,"Regular",0,0,1,0
+695,"Regular",0,0,1,0
+696,"Slightly irregular",0,1,0,0
+697,"Regular",0,0,1,0
+698,"Slightly irregular",0,1,0,0
+699,"Regular",0,0,1,0
+700,"Moderately Irregular",1,0,0,0
+701,"Regular",0,0,1,0
+702,"Regular",0,0,1,0
+703,"Slightly irregular",0,1,0,0
+704,"Regular",0,0,1,0
+705,"Regular",0,0,1,0
+706,"Regular",0,0,1,0
+707,"Moderately Irregular",1,0,0,0
+708,"Regular",0,0,1,0
+709,"Slightly irregular",0,1,0,0
+710,"Slightly irregular",0,1,0,0
+711,"Slightly irregular",0,1,0,0
+712,"Regular",0,0,1,0
+713,"Slightly irregular",0,1,0,0
+714,"Regular",0,0,1,0
+715,"Slightly irregular",0,1,0,0
+716,"Regular",0,0,1,0
+717,"Regular",0,0,1,0
+718,"Regular",0,0,1,0
+719,"Regular",0,0,1,0
+720,"Slightly irregular",0,1,0,0
+721,"Slightly irregular",0,1,0,0
+722,"Regular",0,0,1,0
+723,"Regular",0,0,1,0
+724,"Regular",0,0,1,0
+725,"Slightly irregular",0,1,0,0
+726,"Regular",0,0,1,0
+727,"Slightly irregular",0,1,0,0
+728,"Regular",0,0,1,0
+729,"Regular",0,0,1,0
+730,"Regular",0,0,1,0
+731,"Slightly irregular",0,1,0,0
+732,"Slightly irregular",0,1,0,0
+733,"Slightly irregular",0,1,0,0
+734,"Regular",0,0,1,0
+735,"Slightly irregular",0,1,0,0
+736,"Regular",0,0,1,0
+737,"Regular",0,0,1,0
+738,"Slightly irregular",0,1,0,0
+739,"Regular",0,0,1,0
+740,"Slightly irregular",0,1,0,0
+741,"Regular",0,0,1,0
+742,"Slightly irregular",0,1,0,0
+743,"Regular",0,0,1,0
+744,"Slightly irregular",0,1,0,0
+745,"Slightly irregular",0,1,0,0
+746,"Slightly irregular",0,1,0,0
+747,"Slightly irregular",0,1,0,0
+748,"Slightly irregular",0,1,0,0
+749,"Slightly irregular",0,1,0,0
+750,"Regular",0,0,1,0
+751,"Regular",0,0,1,0
+752,"Regular",0,0,1,0
+753,"Slightly irregular",0,1,0,0
+754,"Regular",0,0,1,0
+755,"Regular",0,0,1,0
+756,"Regular",0,0,1,0
+757,"Slightly irregular",0,1,0,0
+758,"Slightly irregular",0,1,0,0
+759,"Regular",0,0,1,0
+760,"Slightly irregular",0,1,0,0
+761,"Regular",0,0,1,0
+762,"Regular",0,0,1,0
+763,"Regular",0,0,1,0
+764,"Regular",0,0,1,0
+765,"Slightly irregular",0,1,0,0
+766,"Slightly irregular",0,1,0,0
+767,"Regular",0,0,1,0
+768,"Slightly irregular",0,1,0,0
+769,"Regular",0,0,1,0
+770,"Moderately Irregular",1,0,0,0
+771,"Slightly irregular",0,1,0,0
+772,"Regular",0,0,1,0
+773,"Regular",0,0,1,0
+774,"Regular",0,0,1,0
+775,"Regular",0,0,1,0
+776,"Regular",0,0,1,0
+777,"Slightly irregular",0,1,0,0
+778,"Slightly irregular",0,1,0,0
+779,"Regular",0,0,1,0
+780,"Regular",0,0,1,0
+781,"Regular",0,0,1,0
+782,"Regular",0,0,1,0
+783,"Moderately Irregular",1,0,0,0
+784,"Slightly irregular",0,1,0,0
+785,"Regular",0,0,1,0
+786,"Regular",0,0,1,0
+787,"Regular",0,0,1,0
+788,"Slightly irregular",0,1,0,0
+789,"Regular",0,0,1,0
+790,"Slightly irregular",0,1,0,0
+791,"Regular",0,0,1,0
+792,"Slightly irregular",0,1,0,0
+793,"Slightly irregular",0,1,0,0
+794,"Regular",0,0,1,0
+795,"Slightly irregular",0,1,0,0
+796,"Regular",0,0,1,0
+797,"Regular",0,0,1,0
+798,"Regular",0,0,1,0
+799,"Regular",0,0,1,0
+800,"Regular",0,0,1,0
+801,"Slightly irregular",0,1,0,0
+802,"Regular",0,0,1,0
+803,"Regular",0,0,1,0
+804,"Regular",0,0,1,0
+805,"Regular",0,0,1,0
+806,"Slightly irregular",0,1,0,0
+807,"Regular",0,0,1,0
+808,"Regular",0,0,1,0
+809,"Regular",0,0,1,0
+810,"Regular",0,0,1,0
+811,"Regular",0,0,1,0
+812,"Regular",0,0,1,0
+813,"Regular",0,0,1,0
+814,"Regular",0,0,1,0
+815,"Regular",0,0,1,0
+816,"Moderately Irregular",1,0,0,0
+817,"Slightly irregular",0,1,0,0
+818,"Slightly irregular",0,1,0,0
+819,"Regular",0,0,1,0
+820,"Slightly irregular",0,1,0,0
+821,"Slightly irregular",0,1,0,0
+822,"Regular",0,0,1,0
+823,"Slightly irregular",0,1,0,0
+824,"Regular",0,0,1,0
+825,"Regular",0,0,1,0
+826,"Regular",0,0,1,0
+827,"Regular",0,0,1,0
+828,"Slightly irregular",0,1,0,0
+829,"Moderately Irregular",1,0,0,0
+830,"Regular",0,0,1,0
+831,"Slightly irregular",0,1,0,0
+832,"Regular",0,0,1,0
+833,"Slightly irregular",0,1,0,0
+834,"Regular",0,0,1,0
+835,"Regular",0,0,1,0
+836,"Regular",0,0,1,0
+837,"Regular",0,0,1,0
+838,"Regular",0,0,1,0
+839,"Regular",0,0,1,0
+840,"Regular",0,0,1,0
+841,"Slightly irregular",0,1,0,0
+842,"Regular",0,0,1,0
+843,"Regular",0,0,1,0
+844,"Regular",0,0,1,0
+845,"Slightly irregular",0,1,0,0
+846,"Slightly irregular",0,1,0,0
+847,"Regular",0,0,1,0
+848,"Slightly irregular",0,1,0,0
+849,"Moderately Irregular",1,0,0,0
+850,"Regular",0,0,1,0
+851,"Regular",0,0,1,0
+852,"Regular",0,0,1,0
+853,"Regular",0,0,1,0
+854,"Slightly irregular",0,1,0,0
+855,"Regular",0,0,1,0
+856,"Slightly irregular",0,1,0,0
+857,"Slightly irregular",0,1,0,0
+858,"Regular",0,0,1,0
+859,"Regular",0,0,1,0
+860,"Slightly irregular",0,1,0,0
+861,"Regular",0,0,1,0
+862,"Regular",0,0,1,0
+863,"Regular",0,0,1,0
+864,"Regular",0,0,1,0
+865,"Regular",0,0,1,0
+866,"Slightly irregular",0,1,0,0
+867,"Slightly irregular",0,1,0,0
+868,"Regular",0,0,1,0
+869,"Moderately Irregular",1,0,0,0
+870,"Regular",0,0,1,0
+871,"Regular",0,0,1,0
+872,"Regular",0,0,1,0
+873,"Regular",0,0,1,0
+874,"Regular",0,0,1,0
+875,"Regular",0,0,1,0
+876,"Regular",0,0,1,0
+877,"Regular",0,0,1,0
+878,"Regular",0,0,1,0
+879,"Slightly irregular",0,1,0,0
+880,"Slightly irregular",0,1,0,0
+881,"Regular",0,0,1,0
+882,"Slightly irregular",0,1,0,0
+883,"Slightly irregular",0,1,0,0
+884,"Regular",0,0,1,0
+885,"Regular",0,0,1,0
+886,"Slightly irregular",0,1,0,0
+887,"Regular",0,0,1,0
+888,"Slightly irregular",0,1,0,0
+889,"Slightly irregular",0,1,0,0
+890,"Regular",0,0,1,0
+891,"Regular",0,0,1,0
+892,"Regular",0,0,1,0
+893,"Regular",0,0,1,0
+894,"Regular",0,0,1,0
+895,"Regular",0,0,1,0
+896,"Regular",0,0,1,0
+897,"Regular",0,0,1,0
+898,"Regular",0,0,1,0
+899,"Slightly irregular",0,1,0,0
+900,"Regular",0,0,1,0
+901,"Slightly irregular",0,1,0,0
+902,"Slightly irregular",0,1,0,0
+903,"Regular",0,0,1,0
+904,"Slightly irregular",0,1,0,0
+905,"Slightly irregular",0,1,0,0
+906,"Regular",0,0,1,0
+907,"Slightly irregular",0,1,0,0
+908,"Slightly irregular",0,1,0,0
+909,"Slightly irregular",0,1,0,0
+910,"Moderately Irregular",1,0,0,0
+911,"Regular",0,0,1,0
+912,"Slightly irregular",0,1,0,0
+913,"Regular",0,0,1,0
+914,"Regular",0,0,1,0
+915,"Regular",0,0,1,0
+916,"Regular",0,0,1,0
+917,"Regular",0,0,1,0
+918,"Regular",0,0,1,0
+919,"Slightly irregular",0,1,0,0
+920,"Slightly irregular",0,1,0,0
+921,"Slightly irregular",0,1,0,0
+922,"Regular",0,0,1,0
+923,"Regular",0,0,1,0
+924,"Regular",0,0,1,0
+925,"Regular",0,0,1,0
+926,"Slightly irregular",0,1,0,0
+927,"Regular",0,0,1,0
+928,"Regular",0,0,1,0
+929,"Regular",0,0,1,0
+930,"Slightly irregular",0,1,0,0
+931,"Slightly irregular",0,1,0,0
+932,"Regular",0,0,1,0
+933,"Slightly irregular",0,1,0,0
+934,"Regular",0,0,1,0
+935,"Moderately Irregular",1,0,0,0
+936,"Slightly irregular",0,1,0,0
+937,"Regular",0,0,1,0
+938,"Regular",0,0,1,0
+939,"Regular",0,0,1,0
+940,"Regular",0,0,1,0
+941,"Slightly irregular",0,1,0,0
+942,"Slightly irregular",0,1,0,0
+943,"Slightly irregular",0,1,0,0
+944,"Regular",0,0,1,0
+945,"Slightly irregular",0,1,0,0
+946,"Regular",0,0,1,0
+947,"Regular",0,0,1,0
+948,"Regular",0,0,1,0
+949,"Slightly irregular",0,1,0,0
+950,"Regular",0,0,1,0
+951,"Regular",0,0,1,0
+952,"Regular",0,0,1,0
+953,"Regular",0,0,1,0
+954,"Slightly irregular",0,1,0,0
+955,"Slightly irregular",0,1,0,0
+956,"Slightly irregular",0,1,0,0
+957,"Regular",0,0,1,0
+958,"Regular",0,0,1,0
+959,"Regular",0,0,1,0
+960,"Regular",0,0,1,0
+961,"Slightly irregular",0,1,0,0
+962,"Slightly irregular",0,1,0,0
+963,"Regular",0,0,1,0
+964,"Slightly irregular",0,1,0,0
+965,"Regular",0,0,1,0
+966,"Regular",0,0,1,0
+967,"Slightly irregular",0,1,0,0
+968,"Slightly irregular",0,1,0,0
+969,"Regular",0,0,1,0
+970,"Regular",0,0,1,0
+971,"Regular",0,0,1,0
+972,"Regular",0,0,1,0
+973,"Regular",0,0,1,0
+974,"Regular",0,0,1,0
+975,"Slightly irregular",0,1,0,0
+976,"Regular",0,0,1,0
+977,"Slightly irregular",0,1,0,0
+978,"Slightly irregular",0,1,0,0
+979,"Regular",0,0,1,0
+980,"Regular",0,0,1,0
+981,"Slightly irregular",0,1,0,0
+982,"Slightly irregular",0,1,0,0
+983,"Regular",0,0,1,0
+984,"Regular",0,0,1,0
+985,"Regular",0,0,1,0
+986,"Regular",0,0,1,0
+987,"Regular",0,0,1,0
+988,"Slightly irregular",0,1,0,0
+989,"Slightly irregular",0,1,0,0
+990,"Regular",0,0,1,0
+991,"Regular",0,0,1,0
+992,"Regular",0,0,1,0
+993,"Regular",0,0,1,0
+994,"Regular",0,0,1,0
+995,"Regular",0,0,1,0
+996,"Slightly irregular",0,1,0,0
+997,"Slightly irregular",0,1,0,0
+998,"Slightly irregular",0,1,0,0
+999,"Regular",0,0,1,0
+1000,"Regular",0,0,1,0
+1001,"Regular",0,0,1,0
+1002,"Regular",0,0,1,0
+1003,"Slightly irregular",0,1,0,0
+1004,"Slightly irregular",0,1,0,0
+1005,"Regular",0,0,1,0
+1006,"Regular",0,0,1,0
+1007,"Irregular",0,0,0,1
+1008,"Regular",0,0,1,0
+1009,"Slightly irregular",0,1,0,0
+1010,"Regular",0,0,1,0
+1011,"Regular",0,0,1,0
+1012,"Regular",0,0,1,0
+1013,"Regular",0,0,1,0
+1014,"Regular",0,0,1,0
+1015,"Regular",0,0,1,0
+1016,"Regular",0,0,1,0
+1017,"Regular",0,0,1,0
+1018,"Slightly irregular",0,1,0,0
+1019,"Slightly irregular",0,1,0,0
+1020,"Regular",0,0,1,0
+1021,"Regular",0,0,1,0
+1022,"Regular",0,0,1,0
+1023,"Regular",0,0,1,0
+1024,"Regular",0,0,1,0
+1025,"Slightly irregular",0,1,0,0
+1026,"Regular",0,0,1,0
+1027,"Regular",0,0,1,0
+1028,"Slightly irregular",0,1,0,0
+1029,"Regular",0,0,1,0
+1030,"Regular",0,0,1,0
+1031,"Regular",0,0,1,0
+1032,"Regular",0,0,1,0
+1033,"Slightly irregular",0,1,0,0
+1034,"Regular",0,0,1,0
+1035,"Regular",0,0,1,0
+1036,"Slightly irregular",0,1,0,0
+1037,"Slightly irregular",0,1,0,0
+1038,"Regular",0,0,1,0
+1039,"Regular",0,0,1,0
+1040,"Regular",0,0,1,0
+1041,"Regular",0,0,1,0
+1042,"Regular",0,0,1,0
+1043,"Slightly irregular",0,1,0,0
+1044,"Regular",0,0,1,0
+1045,"Regular",0,0,1,0
+1046,"Slightly irregular",0,1,0,0
+1047,"Slightly irregular",0,1,0,0
+1048,"Moderately Irregular",1,0,0,0
+1049,"Regular",0,0,1,0
+1050,"Regular",0,0,1,0
+1051,"Slightly irregular",0,1,0,0
+1052,"Slightly irregular",0,1,0,0
+1053,"Regular",0,0,1,0
+1054,"Regular",0,0,1,0
+1055,"Regular",0,0,1,0
+1056,"Regular",0,0,1,0
+1057,"Slightly irregular",0,1,0,0
+1058,"Moderately Irregular",1,0,0,0
+1059,"Slightly irregular",0,1,0,0
+1060,"Slightly irregular",0,1,0,0
+1061,"Regular",0,0,1,0
+1062,"Regular",0,0,1,0
+1063,"Regular",0,0,1,0
+1064,"Regular",0,0,1,0
+1065,"Slightly irregular",0,1,0,0
+1066,"Regular",0,0,1,0
+1067,"Slightly irregular",0,1,0,0
+1068,"Regular",0,0,1,0
+1069,"Regular",0,0,1,0
+1070,"Regular",0,0,1,0
+1071,"Regular",0,0,1,0
+1072,"Regular",0,0,1,0
+1073,"Regular",0,0,1,0
+1074,"Slightly irregular",0,1,0,0
+1075,"Regular",0,0,1,0
+1076,"Regular",0,0,1,0
+1077,"Regular",0,0,1,0
+1078,"Slightly irregular",0,1,0,0
+1079,"Regular",0,0,1,0
+1080,"Regular",0,0,1,0
+1081,"Regular",0,0,1,0
+1082,"Regular",0,0,1,0
+1083,"Regular",0,0,1,0
+1084,"Regular",0,0,1,0
+1085,"Moderately Irregular",1,0,0,0
+1086,"Regular",0,0,1,0
+1087,"Regular",0,0,1,0
+1088,"Regular",0,0,1,0
+1089,"Regular",0,0,1,0
+1090,"Slightly irregular",0,1,0,0
+1091,"Regular",0,0,1,0
+1092,"Regular",0,0,1,0
+1093,"Regular",0,0,1,0
+1094,"Regular",0,0,1,0
+1095,"Regular",0,0,1,0
+1096,"Slightly irregular",0,1,0,0
+1097,"Regular",0,0,1,0
+1098,"Regular",0,0,1,0
+1099,"Regular",0,0,1,0
+1100,"Slightly irregular",0,1,0,0
+1101,"Regular",0,0,1,0
+1102,"Slightly irregular",0,1,0,0
+1103,"Regular",0,0,1,0
+1104,"Regular",0,0,1,0
+1105,"Regular",0,0,1,0
+1106,"Slightly irregular",0,1,0,0
+1107,"Slightly irregular",0,1,0,0
+1108,"Irregular",0,0,0,1
+1109,"Regular",0,0,1,0
+1110,"Slightly irregular",0,1,0,0
+1111,"Regular",0,0,1,0
+1112,"Regular",0,0,1,0
+1113,"Slightly irregular",0,1,0,0
+1114,"Regular",0,0,1,0
+1115,"Regular",0,0,1,0
+1116,"Regular",0,0,1,0
+1117,"Regular",0,0,1,0
+1118,"Slightly irregular",0,1,0,0
+1119,"Regular",0,0,1,0
+1120,"Regular",0,0,1,0
+1121,"Regular",0,0,1,0
+1122,"Regular",0,0,1,0
+1123,"Slightly irregular",0,1,0,0
+1124,"Regular",0,0,1,0
+1125,"Slightly irregular",0,1,0,0
+1126,"Regular",0,0,1,0
+1127,"Regular",0,0,1,0
+1128,"Irregular",0,0,0,1
+1129,"Slightly irregular",0,1,0,0
+1130,"Regular",0,0,1,0
+1131,"Regular",0,0,1,0
+1132,"Regular",0,0,1,0
+1133,"Regular",0,0,1,0
+1134,"Slightly irregular",0,1,0,0
+1135,"Slightly irregular",0,1,0,0
+1136,"Regular",0,0,1,0
+1137,"Regular",0,0,1,0
+1138,"Regular",0,0,1,0
+1139,"Slightly irregular",0,1,0,0
+1140,"Slightly irregular",0,1,0,0
+1141,"Regular",0,0,1,0
+1142,"Slightly irregular",0,1,0,0
+1143,"Regular",0,0,1,0
+1144,"Regular",0,0,1,0
+1145,"Regular",0,0,1,0
+1146,"Regular",0,0,1,0
+1147,"Regular",0,0,1,0
+1148,"Regular",0,0,1,0
+1149,"Regular",0,0,1,0
+1150,"Regular",0,0,1,0
+1151,"Slightly irregular",0,1,0,0
+1152,"Regular",0,0,1,0
+1153,"Slightly irregular",0,1,0,0
+1154,"Regular",0,0,1,0
+1155,"Slightly irregular",0,1,0,0
+1156,"Slightly irregular",0,1,0,0
+1157,"Regular",0,0,1,0
+1158,"Slightly irregular",0,1,0,0
+1159,"Regular",0,0,1,0
+1160,"Regular",0,0,1,0
+1161,"Regular",0,0,1,0
+1162,"Slightly irregular",0,1,0,0
+1163,"Regular",0,0,1,0
+1164,"Regular",0,0,1,0
+1165,"Slightly irregular",0,1,0,0
+1166,"Slightly irregular",0,1,0,0
+1167,"Slightly irregular",0,1,0,0
+1168,"Slightly irregular",0,1,0,0
+1169,"Regular",0,0,1,0
+1170,"Slightly irregular",0,1,0,0
+1171,"Regular",0,0,1,0
+1172,"Regular",0,0,1,0
+1173,"Slightly irregular",0,1,0,0
+1174,"Slightly irregular",0,1,0,0
+1175,"Slightly irregular",0,1,0,0
+1176,"Regular",0,0,1,0
+1177,"Slightly irregular",0,1,0,0
+1178,"Regular",0,0,1,0
+1179,"Slightly irregular",0,1,0,0
+1180,"Regular",0,0,1,0
+1181,"Moderately Irregular",1,0,0,0
+1182,"Slightly irregular",0,1,0,0
+1183,"Slightly irregular",0,1,0,0
+1184,"Regular",0,0,1,0
+1185,"Regular",0,0,1,0
+1186,"Regular",0,0,1,0
+1187,"Slightly irregular",0,1,0,0
+1188,"Regular",0,0,1,0
+1189,"Slightly irregular",0,1,0,0
+1190,"Regular",0,0,1,0
+1191,"Regular",0,0,1,0
+1192,"Regular",0,0,1,0
+1193,"Regular",0,0,1,0
+1194,"Regular",0,0,1,0
+1195,"Regular",0,0,1,0
+1196,"Slightly irregular",0,1,0,0
+1197,"Slightly irregular",0,1,0,0
+1198,"Slightly irregular",0,1,0,0
+1199,"Regular",0,0,1,0
+1200,"Regular",0,0,1,0
+1201,"Regular",0,0,1,0
+1202,"Regular",0,0,1,0
+1203,"Regular",0,0,1,0
+1204,"Regular",0,0,1,0
+1205,"Regular",0,0,1,0
+1206,"Slightly irregular",0,1,0,0
+1207,"Regular",0,0,1,0
+1208,"Regular",0,0,1,0
+1209,"Regular",0,0,1,0
+1210,"Slightly irregular",0,1,0,0
+1211,"Regular",0,0,1,0
+1212,"Slightly irregular",0,1,0,0
+1213,"Regular",0,0,1,0
+1214,"Slightly irregular",0,1,0,0
+1215,"Slightly irregular",0,1,0,0
+1216,"Slightly irregular",0,1,0,0
+1217,"Regular",0,0,1,0
+1218,"Regular",0,0,1,0
+1219,"Regular",0,0,1,0
+1220,"Regular",0,0,1,0
+1221,"Slightly irregular",0,1,0,0
+1222,"Regular",0,0,1,0
+1223,"Regular",0,0,1,0
+1224,"Regular",0,0,1,0
+1225,"Slightly irregular",0,1,0,0
+1226,"Regular",0,0,1,0
+1227,"Slightly irregular",0,1,0,0
+1228,"Regular",0,0,1,0
+1229,"Regular",0,0,1,0
+1230,"Regular",0,0,1,0
+1231,"Slightly irregular",0,1,0,0
+1232,"Regular",0,0,1,0
+1233,"Regular",0,0,1,0
+1234,"Slightly irregular",0,1,0,0
+1235,"Regular",0,0,1,0
+1236,"Regular",0,0,1,0
+1237,"Regular",0,0,1,0
+1238,"Moderately Irregular",1,0,0,0
+1239,"Regular",0,0,1,0
+1240,"Slightly irregular",0,1,0,0
+1241,"Regular",0,0,1,0
+1242,"Regular",0,0,1,0
+1243,"Regular",0,0,1,0
+1244,"Regular",0,0,1,0
+1245,"Slightly irregular",0,1,0,0
+1246,"Regular",0,0,1,0
+1247,"Regular",0,0,1,0
+1248,"Slightly irregular",0,1,0,0
+1249,"Regular",0,0,1,0
+1250,"Regular",0,0,1,0
+1251,"Regular",0,0,1,0
+1252,"Slightly irregular",0,1,0,0
+1253,"Regular",0,0,1,0
+1254,"Slightly irregular",0,1,0,0
+1255,"Regular",0,0,1,0
+1256,"Regular",0,0,1,0
+1257,"Slightly irregular",0,1,0,0
+1258,"Regular",0,0,1,0
+1259,"Slightly irregular",0,1,0,0
+1260,"Regular",0,0,1,0
+1261,"Irregular",0,0,0,1
+1262,"Regular",0,0,1,0
+1263,"Regular",0,0,1,0
+1264,"Regular",0,0,1,0
+1265,"Regular",0,0,1,0
+1266,"Regular",0,0,1,0
+1267,"Slightly irregular",0,1,0,0
+1268,"Slightly irregular",0,1,0,0
+1269,"Slightly irregular",0,1,0,0
+1270,"Regular",0,0,1,0
+1271,"Regular",0,0,1,0
+1272,"Slightly irregular",0,1,0,0
+1273,"Slightly irregular",0,1,0,0
+1274,"Slightly irregular",0,1,0,0
+1275,"Regular",0,0,1,0
+1276,"Regular",0,0,1,0
+1277,"Slightly irregular",0,1,0,0
+1278,"Slightly irregular",0,1,0,0
+1279,"Regular",0,0,1,0
+1280,"Regular",0,0,1,0
+1281,"Slightly irregular",0,1,0,0
+1282,"Slightly irregular",0,1,0,0
+1283,"Slightly irregular",0,1,0,0
+1284,"Regular",0,0,1,0
+1285,"Regular",0,0,1,0
+1286,"Regular",0,0,1,0
+1287,"Regular",0,0,1,0
+1288,"Slightly irregular",0,1,0,0
+1289,"Slightly irregular",0,1,0,0
+1290,"Slightly irregular",0,1,0,0
+1291,"Slightly irregular",0,1,0,0
+1292,"Regular",0,0,1,0
+1293,"Regular",0,0,1,0
+1294,"Regular",0,0,1,0
+1295,"Regular",0,0,1,0
+1296,"Regular",0,0,1,0
+1297,"Regular",0,0,1,0
+1298,"Regular",0,0,1,0
+1299,"Irregular",0,0,0,1
+1300,"Regular",0,0,1,0
+1301,"Slightly irregular",0,1,0,0
+1302,"Slightly irregular",0,1,0,0
+1303,"Regular",0,0,1,0
+1304,"Regular",0,0,1,0
+1305,"Regular",0,0,1,0
+1306,"Slightly irregular",0,1,0,0
+1307,"Slightly irregular",0,1,0,0
+1308,"Regular",0,0,1,0
+1309,"Regular",0,0,1,0
+1310,"Regular",0,0,1,0
+1311,"Regular",0,0,1,0
+1312,"Regular",0,0,1,0
+1313,"Slightly irregular",0,1,0,0
+1314,"Slightly irregular",0,1,0,0
+1315,"Regular",0,0,1,0
+1316,"Regular",0,0,1,0
+1317,"Slightly irregular",0,1,0,0
+1318,"Regular",0,0,1,0
+1319,"Moderately Irregular",1,0,0,0
+1320,"Regular",0,0,1,0
+1321,"Regular",0,0,1,0
+1322,"Slightly irregular",0,1,0,0
+1323,"Slightly irregular",0,1,0,0
+1324,"Regular",0,0,1,0
+1325,"Regular",0,0,1,0
+1326,"Regular",0,0,1,0
+1327,"Regular",0,0,1,0
+1328,"Regular",0,0,1,0
+1329,"Regular",0,0,1,0
+1330,"Slightly irregular",0,1,0,0
+1331,"Regular",0,0,1,0
+1332,"Slightly irregular",0,1,0,0
+1333,"Regular",0,0,1,0
+1334,"Regular",0,0,1,0
+1335,"Regular",0,0,1,0
+1336,"Regular",0,0,1,0
+1337,"Slightly irregular",0,1,0,0
+1338,"Slightly irregular",0,1,0,0
+1339,"Slightly irregular",0,1,0,0
+1340,"Slightly irregular",0,1,0,0
+1341,"Regular",0,0,1,0
+1342,"Regular",0,0,1,0
+1343,"Regular",0,0,1,0
+1344,"Regular",0,0,1,0
+1345,"Slightly irregular",0,1,0,0
+1346,"Regular",0,0,1,0
+1347,"Moderately Irregular",1,0,0,0
+1348,"Slightly irregular",0,1,0,0
+1349,"Irregular",0,0,0,1
+1350,"Regular",0,0,1,0
+1351,"Regular",0,0,1,0
+1352,"Slightly irregular",0,1,0,0
+1353,"Regular",0,0,1,0
+1354,"Slightly irregular",0,1,0,0
+1355,"Slightly irregular",0,1,0,0
+1356,"Slightly irregular",0,1,0,0
+1357,"Regular",0,0,1,0
+1358,"Slightly irregular",0,1,0,0
+1359,"Regular",0,0,1,0
+1360,"Regular",0,0,1,0
+1361,"Regular",0,0,1,0
+1362,"Slightly irregular",0,1,0,0
+1363,"Slightly irregular",0,1,0,0
+1364,"Slightly irregular",0,1,0,0
+1365,"Regular",0,0,1,0
+1366,"Regular",0,0,1,0
+1367,"Slightly irregular",0,1,0,0
+1368,"Regular",0,0,1,0
+1369,"Regular",0,0,1,0
+1370,"Moderately Irregular",1,0,0,0
+1371,"Regular",0,0,1,0
+1372,"Regular",0,0,1,0
+1373,"Regular",0,0,1,0
+1374,"Regular",0,0,1,0
+1375,"Regular",0,0,1,0
+1376,"Slightly irregular",0,1,0,0
+1377,"Regular",0,0,1,0
+1378,"Regular",0,0,1,0
+1379,"Regular",0,0,1,0
+1380,"Regular",0,0,1,0
+1381,"Regular",0,0,1,0
+1382,"Slightly irregular",0,1,0,0
+1383,"Regular",0,0,1,0
+1384,"Regular",0,0,1,0
+1385,"Regular",0,0,1,0
+1386,"Regular",0,0,1,0
+1387,"Slightly irregular",0,1,0,0
+1388,"Regular",0,0,1,0
+1389,"Slightly irregular",0,1,0,0
+1390,"Regular",0,0,1,0
+1391,"Regular",0,0,1,0
+1392,"Regular",0,0,1,0
+1393,"Regular",0,0,1,0
+1394,"Regular",0,0,1,0
+1395,"Regular",0,0,1,0
+1396,"Slightly irregular",0,1,0,0
+1397,"Slightly irregular",0,1,0,0
+1398,"Regular",0,0,1,0
+1399,"Regular",0,0,1,0
+1400,"Regular",0,0,1,0
+1401,"Regular",0,0,1,0
+1402,"Slightly irregular",0,1,0,0
+1403,"Regular",0,0,1,0
+1404,"Slightly irregular",0,1,0,0
+1405,"Regular",0,0,1,0
+1406,"Slightly irregular",0,1,0,0
+1407,"Regular",0,0,1,0
+1408,"Slightly irregular",0,1,0,0
+1409,"Regular",0,0,1,0
+1410,"Slightly irregular",0,1,0,0
+1411,"Regular",0,0,1,0
+1412,"Regular",0,0,1,0
+1413,"Regular",0,0,1,0
+1414,"Slightly irregular",0,1,0,0
+1415,"Regular",0,0,1,0
+1416,"Regular",0,0,1,0
+1417,"Regular",0,0,1,0
+1418,"Slightly irregular",0,1,0,0
+1419,"Regular",0,0,1,0
+1420,"Slightly irregular",0,1,0,0
+1421,"Regular",0,0,1,0
+1422,"Regular",0,0,1,0
+1423,"Regular",0,0,1,0
+1424,"Slightly irregular",0,1,0,0
+1425,"Regular",0,0,1,0
+1426,"Slightly irregular",0,1,0,0
+1427,"Slightly irregular",0,1,0,0
+1428,"Regular",0,0,1,0
+1429,"Regular",0,0,1,0
+1430,"Slightly irregular",0,1,0,0
+1431,"Irregular",0,0,0,1
+1432,"Slightly irregular",0,1,0,0
+1433,"Regular",0,0,1,0
+1434,"Slightly irregular",0,1,0,0
+1435,"Regular",0,0,1,0
+1436,"Regular",0,0,1,0
+1437,"Regular",0,0,1,0
+1438,"Regular",0,0,1,0
+1439,"Regular",0,0,1,0
+1440,"Regular",0,0,1,0
+1441,"Slightly irregular",0,1,0,0
+1442,"Regular",0,0,1,0
+1443,"Regular",0,0,1,0
+1444,"Regular",0,0,1,0
+1445,"Regular",0,0,1,0
+1446,"Regular",0,0,1,0
+1447,"Slightly irregular",0,1,0,0
+1448,"Regular",0,0,1,0
+1449,"Regular",0,0,1,0
+1450,"Regular",0,0,1,0
+1451,"Regular",0,0,1,0
+1452,"Regular",0,0,1,0
+1453,"Regular",0,0,1,0
+1454,"Regular",0,0,1,0
+1455,"Regular",0,0,1,0
+1456,"Regular",0,0,1,0
+1457,"Regular",0,0,1,0
+1458,"Regular",0,0,1,0
+1459,"Regular",0,0,1,0
+1460,"Regular",0,0,1,0
