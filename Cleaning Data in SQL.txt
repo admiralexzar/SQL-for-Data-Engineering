@@ -1,0 +1,104 @@
+Cleaning Data in SQL
+
+1. Download the Titanic.csv file and accompanying instruction file.
+2. Create a table in PostgreSQL based on the table structure provided in the Titanic.csv file. Name the table as ‘titanic’
+3. Import the Titanic dataset into the newly created table.
+4. Perform the following data cleaning tasks:
+	A. Handle the missing data under columns “Age” and “Cabin” by replacing the appropriate values
+	B. Standardize the values found under column “Sex”
+	C. Create a column “Last_Name” and populate with values derived from “Name” column
+	D. Create a column “Title” and populate with values derived from “Name” column
+	E. Create a column “First_Name” and populate with values derived from “Name” column (do not remove values in parenthesis)
+
+A. Handle the missing data under columns “Age” and “Cabin” by replacing the appropriate values
+
+--- to determine the number of null values of the said columns 
+
+SELECT age, COUNT (*) as count_age 
+FROM titanic 
+GROUP BY age;
+
+SELECT cabin, COUNT (*) as count_cabin 
+FROM titanic 
+GROUP BY cabin;
+
+--- updating the table replacing null values of COLUMNS age and cabin with 'unknown' string
+
+UPDATE titanic
+	SET age = 'Unknown'
+WHERE age is NULL;
+
+UPDATE titanic
+	SET cabin = 'Unknown'
+WHERE cabin is NULL;
+
+B. Standardize the values found under column “Sex”
+
+---determine the values under the column "sex'
+select sex, count (*) as count_sex 
+from titanic
+group by sex;
+
+---standized the 'M' to male
+UPDATE titanic
+	SET sex = 'male'
+WHERE sex = 'M'
+
+---standized the 'F' to female
+UPDATE titanic
+	SET sex = 'female'
+WHERE sex = 'F'
+
+C. Create a column “Last_Name” and populate with values derived from “Name” column
+
+---create column "last_name" using ALTER TABLE and ADD COLUMN statement
+ALTER TABLE titanic
+ADD COLUMN last_name VARCHAR;
+
+---confirm if the column created
+SELECT last_name
+FROM titanic
+
+---extract last name using SPLIT_PART() function
+UPDATE titanic
+    SET last_Name =  SPLIT_PART(name, ',', 1)
+
+---confirm if the column is populated
+SELECT last_name
+FROM titanic
+
+D. Create a column “Title” and populate with values derived from “Name” column
+
+---create column "title" using ALTER TABLE and ADD COLUMN statement
+ALTER TABLE titanic
+ADD COLUMN title VARCHAR;
+
+---confirm if the column is created
+SELECT title
+FROM titanic
+
+---extract title using SPLIT_PART() function
+UPDATE titanic
+    SET title = split_part(name, ' ', 2)
+	
+---confirm if the column is populated
+SELECT title
+FROM titanic
+
+E. Create a column “First_Name” and populate with values derived from “Name” column (do not remove values in parenthesis)
+
+---create column "first_name" using ALTER TABLE and ADD COLUMN statement
+ALTER TABLE titanic
+ADD COLUMN first_name VARCHAR;
+
+---confirm if the column is created
+SELECT first_name
+FROM titanic
+
+---extract first name using SPLIT_PART() function
+UPDATE titanic
+    SET first_name = split_part(name, '.', 2)
+
+---confirm if the column is populated
+SELECT first_name
+FROM titanic
